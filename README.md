@@ -110,7 +110,6 @@ ai绘图prompt
     "hairstyle": "Dark hair pulled back/updo",
     "action": "Leaning against a white door frame with one hand raised and the other in pocket",
     "background": "White wall and white door with silver handle",
-    "watermark_text": "知乎 @明星聊一聊"
   }
 }
 ```
@@ -213,7 +212,6 @@ ai绘图prompt
       "background": "深色（黑色）的门和墙面，环境极简。",
       "lighting": "聚光灯效果，光线主要集中在人物身上，形成强烈的明暗对比，突出了人物的轮廓和皮肤质感。"
     },
-    "watermark": "右下角显示“知乎 @明星聊一聊”"
   }
 }
 ```
@@ -250,7 +248,6 @@ ai绘图prompt
     }
   },
   "style": "写实风格数字绘画 (Digital Art) 或 高精细度3D渲染，具有典型的现代网络插画审美。",
-  "watermark": "知乎 @去码头整点薯条"
 }
 ```
 
@@ -309,7 +306,6 @@ ai绘图prompt
       "lighting": "自然侧光，光线从右侧窗户射入，照亮了人物的面部和毛衣纹理，营造出温暖柔和的氛围"
     },
     "metadata": {
-      "watermark": "知乎 @明星聊一聊",
       "mood": "温馨、慵懒、文艺"
     }
   }
@@ -337,10 +333,6 @@ ai绘图prompt
       ]
     },
     "visual_style": "High-quality 3D rendering, resembling characters from modern animation or video games (like C4D or Blender art). Soft lighting and textures.",
-    "metadata": {
-      "watermark_text": "豆包AI生成 (DouBao AI Generated)",
-      "position": "Bottom right corner"
-    }
   }
 }
 ```
@@ -377,7 +369,6 @@ ai绘图prompt
         "Reception area visible in the far background"
       ]
     },
-    "watermark": "Bottom right corner text: '知乎 @岸边的鱼'"
   }
 }
 ```
@@ -505,7 +496,6 @@ ai绘图prompt
   "metadata": {
     "setting": "Indoors",
     "lighting": "Warm ambient light",
-    "watermark": "知乎 @岸边的鱼"
   }
 }
 ```
@@ -540,7 +530,6 @@ ai绘图prompt
       "mood": "glamorous, western-chic, stylish"
     },
     "metadata": {
-      "watermark": "bottom right corner: '知乎 @明星聊一聊' (Zhihu @StarChat)",
       "estimated_identity": "Likely Chinese actress/model Zhang Yuxi (张予曦) based on facial features and style"
     }
   }
@@ -567,16 +556,6 @@ ai绘图prompt
       "setting": "Indoors, possibly an event venue",
       "lighting": "Bokeh effect with colorful blurred lights in the distance"
     },
-    "watermarks": [
-      {
-        "text": "Aholic",
-        "position": "Top Right"
-      },
-      {
-        "text": "知乎 @明星聊一聊",
-        "position": "Bottom Right"
-      }
-    ]
   }
 }
 ```
@@ -611,10 +590,6 @@ ai绘图prompt
       "Beige tote bag with black lettering (partially visible 'NO') resting on the bench next to her"
     ]
   },
-  "watermark": {
-    "location": "bottom right corner",
-    "text": "公众号 · 篮球热点君"
-  }
 }
 ```
 
@@ -631,7 +606,6 @@ ai绘图prompt
     "expression": "Calm, gentle smile, soft gaze",
     "lighting": "Backlit with strong sunlight creating a halo effect on the hair and lens flares",
     "background": "Blurred blue sky or backdrop with bright white light areas",
-    "watermark": "Bottom right corner text: '知乎 @明星聊一聊' (Zhihu @StarsChat)"
   }
 }
 ```
@@ -664,7 +638,6 @@ ai绘图prompt
       "lighting": "Soft, studio lighting highlighting her face and jewelry.",
       "background": "Neutral, out-of-focus beige/grey background."
     },
-    "watermark": "Bottom right corner text: '知乎 @明星聊一聊' (Zhihu @StarChat)"
   }
 }
 ```
@@ -693,10 +666,6 @@ ai绘图prompt
       "color_palette": "deep blues, blacks, warm skin tones, golden straw",
       "atmosphere": "elegant, mysterious, moody, sophisticated"
     },
-    "watermark": {
-      "text": "知乎 @明星聊一聊",
-      "position": "bottom right corner"
-    }
   }
 }
 ```
@@ -725,10 +694,6 @@ ai绘图prompt
       "lighting": "Soft, natural lighting",
       "location_type": "Outdoor setting"
     },
-    "watermark": {
-      "platform": "Zhihu",
-      "user": "@明星聊一聊"
-    }
   }
 }
 ```
@@ -774,9 +739,6 @@ ai绘图prompt
     "background": "简洁的浅色墙壁",
     "lighting": "柔和温暖的自然光，投射出清晰的影子，营造出慵懒的氛围"
   },
-  "metadata": {
-    "watermark": "知乎 @明星聊一聊"
-  }
 }
 ```
 
@@ -846,7 +808,6 @@ ai绘图prompt
     ],
     "pose": "全身照，身体微侧，左手插在裤兜中，右手自然下垂，目光直视镜头",
     "background": "纯浅蓝色背景，典型的时尚摄影棚风格",
-    "watermark": "右下角有白色文字水印 '知乎 @'"
   }
 }
 ```
@@ -919,9 +880,6 @@ ai绘图prompt
     "setting": "The background suggests an indoor setting with somewhat dim, moody lighting, giving it a cinematic or vintage feel. There is a piece of white lace fabric visible in the bottom left corner.",
     "tone": "Elegant, alluring, soft, and intimate."
   },
-  "metadata": {
-    "source_watermark": "知乎 @代码无bug"
-  }
 }
 ```
 
@@ -1000,7 +958,7 @@ ai绘图prompt
 {
   "image_description": {
     "subject": {
-      "identity": "Female celebrity (appears to be Liu Yifei)",
+      "identity": "Female celebrity",
       "hair": "Long, straight black hair",
       "expression": "Serene gaze directly at the camera"
     },
@@ -1021,13 +979,6 @@ ai绘图prompt
     "environment": {
       "background": "Soft, gradient light blue background (sky-like)"
     },
-    "overlays": {
-      "text": {
-        "content": "就选猫",
-        "position": "Top right corner",
-        "language": "Chinese"
-      }
-    }
   }
 }
 ```
@@ -1035,7 +986,6 @@ ai绘图prompt
 ```json
 {
   "subject": {
-    "person": "刘亦菲",
     "description": "一位长发女性，身穿黑白搭配的时尚服装。"
   },
   "attire": {
@@ -1045,16 +995,6 @@ ai绘图prompt
       "精致的项链"
     ]
   },
-  "text_elements": [
-    {
-      "location": "left_side",
-      "content": "猫人全球品牌代言人 刘亦菲"
-    },
-    {
-      "location": "top_right",
-      "content": "就选猫人"
-    }
-  ],
   "style": "时尚摄影, 商业广告",
   "color_palette": ["黑色", "白色", "灰色"]
 }
@@ -1062,10 +1002,9 @@ ai绘图prompt
 
 ```json
 {
-  "image_description": "这是一张时尚广告海报，展示了演员刘亦菲作为猫人（MIIOW）品牌代言人的形象。整体色调偏向冷艳和高级感，突出了“科技内衣”的主题。",
+  "image_description": "这是一张时尚广告海报，展示了一个亚洲年轻女性作为内衣品牌代言人的形象。整体色调偏向冷艳和高级感，突出了“科技内衣”的主题。",
   "subject": {
-    "name": "刘亦菲",
-    "role": "猫人全球品牌代言人",
+    "role": "内衣全球品牌代言人",
     "appearance": {
       "hair": "黑色长直发，略显凌乱美，自然垂落在肩头",
       "makeup": "精致的淡妆，强调眼部轮廓，唇色自然偏红",
@@ -1092,31 +1031,13 @@ ai绘图prompt
     "furniture": "一张带有法式古典风格的软包椅子，椅背上有淡雅的风景画图案",
     "environment": "室内摄影棚，背景较为模糊，光线柔和但对比度适中，营造出高级质感"
   },
-  "text_elements": [
-    {
-      "location": "左上角",
-      "content": "MIIOW (品牌Logo)"
-    },
-    {
-      "location": "右上角",
-      "content": "科技内衣\n就选猫人"
-    },
-    {
-      "location": "左侧中部",
-      "content": "刘亦菲\n猫人全球品牌代言人\n(下方伴有手写体签名)"
-    },
-    {
-      "location": "右下角",
-      "content": "知乎 @曲事 (水印)"
-    }
-  ]
 }
 ```
 
 ```json
 {
   "image_analysis": {
-    "subject": "年轻女性（疑似刘亦菲）",
+    "subject": "年轻女性",
     "attire": {
       "dress": "白色吊带短款连衣裙，V领设计，领口饰有蕾丝花边，裙摆为蓬松的多层荷叶边（类似芭蕾舞裙风格）",
       "legwear": "带有精致暗纹或印花的白色半透明连裤袜",
@@ -1150,8 +1071,7 @@ ai绘图prompt
 {
    "image_description ":  "这是一张时尚广告照片，主要展示了一位身穿白色吊带连衣裙的女性模特。 ",
    "subject ": {
-     "name ":  "刘亦菲 ",
-     "role ":  "猫人全球品牌代言人 ",
+     "role ":  "内衣全球品牌代言人 ",
      "appearance ":  "深色长发编成侧边麻花辫，妆容精致，神情温柔自信。 ",
      "attire ": [
        "白色V领吊带连衣裙，带有蕾丝花边装饰 ",
@@ -1160,34 +1080,6 @@ ai绘图prompt
        "耳饰 "
     ],
      "pose ":  "坐在椅子上，身体微微前倾，一手轻抚裙摆，另一手自然垂放。 "
-  },
-   "text_elements ": [
-    {
-       "location ":  "top_left ",
-       "content ":  "MIIOW Logo ",
-       "translation ":  "猫人品牌标志 "
-    },
-    {
-       "location ":  "top_right ",
-       "content ":  "科技内衣 就选猫人 ",
-       "type ":  "slogan "
-    },
-    {
-       "location ":  "left_side ",
-       "content ":  "刘亦菲 
-猫人全球品牌代言人 ",
-       "type ":  "identity "
-    },
-    {
-       "location ":  "bottom_left ",
-       "content ":  "签名 ",
-       "type ":  "signature "
-    }
-  ],
-   "brand_info ": {
-     "name_cn ":  "猫人 ",
-     "name_en ":  "MIIOW ",
-     "category ":  "内衣/家居服 "
   },
    "visual_style ": {
      "lighting ":  "柔和的自然光 ",
@@ -1200,10 +1092,9 @@ ai绘图prompt
 
 ```json
 {
-   "image_description ":  "这是一张时尚广告海报，展示了著名演员刘亦菲为内衣品牌“猫人（MIIOW）”拍摄的宣传照。 ",
+   "image_description ":  "这是一张时尚广告海报，展示了一位年轻亚洲女性为内衣品牌拍摄的宣传照。 ",
    "subject ": {
-     "name ":  "刘亦菲 ",
-     "role ":  "猫人全球品牌代言人 ",
+     "role ":  "内衣全球品牌代言人 ",
      "appearance ":  "黑色长发编成侧边麻花辫，佩戴珍珠耳饰和项链，妆容精致清透。 "
   },
    "attire ": {
@@ -1212,25 +1103,6 @@ ai绘图prompt
   },
    "pose ":  "身体微微侧向镜头，左手举起扶着旁边的木质门框，右手叉腰，眼神直视前方，姿态优雅自信。 ",
    "background ":  "背景为带有质感的米灰色墙面和深色的木质门框结构，光线柔和。 ",
-   "text_elements ": [
-    {
-       "location ":  "左上角 ",
-       "content ":  "MIIOW (品牌Logo) "
-    },
-    {
-       "location ":  "左侧竖排 ",
-       "content ":  "刘亦菲 猫人全球品牌代言人 (下方附有签名) "
-    },
-    {
-       "location ":  "右上角 ",
-       "content ":  "科技内衣 就选猫人 "
-    },
-    {
-       "location ":  "右下角水印 ",
-       "content ":  "知乎 @曲事 "
-    }
-  ],
-   "brand ":  "猫人 (MIIOW) "
 }
 ```
 
@@ -1253,6 +1125,7 @@ ai绘图prompt
   }
 }
 ```
+
 ```json
 {
    "image_description ": {
@@ -1274,7 +1147,6 @@ ai绘图prompt
      "setting ": {
        "background ":  "Dark black curtains behind her and a white door frame to the left. "
     },
-     "watermark ":  "Bottom right corner text: '知乎 @明星聊一聊' "
   }
 }
 ```
@@ -1332,16 +1204,6 @@ ai绘图prompt
     },
      "pose ":  "Arms raised behind the head, elbows out, showcasing the silhouette. ",
      "background ":  "White, vertical pleated curtains or drapes. ",
-     "overlays ": [
-      {
-         "text ":  "知乎 @我有一根金箍棒 ",
-         "position ":  "bottom_center "
-      },
-      {
-         "text ":  "小红书 ",
-         "position ":  "bottom_right_icon "
-      }
-    ]
   }
 }
 ```
@@ -1371,7 +1233,6 @@ ai绘图prompt
     ]
   },
    "metadata ": {
-     "watermark ":  "Bottom right corner text: '知乎 @代码无bug' ",
      "style ":  "Portrait photography, soft lighting, aesthetic style common on social media platforms like Xiaohongshu or Zhihu. "
   }
 }
@@ -1388,9 +1249,6 @@ ai绘图prompt
        "colors ": [ "Black ",  "Silver ",  "Gold ",  "Skin tone "],
        "lighting ":  "Spotlight on subject, dark background "
     },
-     "metadata ": {
-       "source_watermark ":  "知乎 @明星聊一聊 "
-    }
   }
 }
 ```
@@ -1422,9 +1280,6 @@ ai绘图prompt
      "location ":  "汽车后座 ",
      "background ":  "车窗外的桥梁结构，天气看起来较为阴沉 "
   },
-   "metadata ": {
-     "source_watermark ":  "知乎 @甜甜大宝贝 "
-  }
 }
 ```
 
@@ -1485,7 +1340,6 @@ ai绘图prompt
       ]
     }
   ],
-   "watermark_text ":  "知乎 @明星聊一聊 "
 }
 ```
 
@@ -1517,7 +1371,6 @@ ai绘图prompt
          "wall lamp "
       ]
     },
-     "watermark ":  "知乎 @明星聊一聊 "
   }
 }
 ```
@@ -1548,7 +1401,6 @@ ai绘图prompt
          "details ":  "自然光，暖色调，逆光感 "
       }
     ],
-     "watermark ":  "知乎 @李明殊 ",
      "style ":  "唯美，日系写真，柔焦 "
   }
 }
@@ -1622,7 +1474,6 @@ ai绘图prompt
        "mood ":  "dreamy, romantic, soft, ethereal "
     },
      "metadata ": {
-       "watermark ":  "知乎 @李明殊 ",
        "orientation ":  "portrait "
     }
   }
@@ -1686,7 +1537,6 @@ ai绘图prompt
        "floor ":  "Light wood flooring "
     },
      "style ":  "Realistic photography style, likely AI-generated given the lighting and texture ",
-     "watermark ":  "Bottom right corner: '知乎 @fris' "
   }
 }
 ```
@@ -1866,16 +1716,6 @@ ai绘图prompt
          "Bright light source on the right side "
       ]
     },
-     "text_visible ": [
-      {
-         "location ":  "Top Left ",
-         "content ":  "NHpnlac "
-      },
-      {
-         "location ":  "Bottom Right ",
-         "content ":  "知乎 @明星聊一聊 "
-      }
-    ]
   }
 }
 ```
@@ -1912,9 +1752,6 @@ ai绘图prompt
      "lighting ":  "Soft, warm, diffused lighting creating gentle shadows. ",
      "atmosphere ":  "Romantic, elegant, cinematic, quiet intimacy. "
   },
-   "metadata ": {
-     "watermark ":  "知乎 @明星聊一聊 (Zhihu @StarChat) "
-  }
 }
 ```
 
@@ -1950,9 +1787,6 @@ ai绘图prompt
      "lighting ":  "Soft, warm, diffused lighting creating gentle shadows. ",
      "atmosphere ":  "Romantic, elegant, cinematic, quiet intimacy. "
   },
-   "metadata ": {
-     "watermark ":  "知乎 @明星聊一聊 (Zhihu @StarChat) "
-  }
 }
 ```
 
@@ -1989,7 +1823,6 @@ ai绘图prompt
        "surface ":  "marble or stone ledge/bench "
     },
      "metadata ": {
-       "watermark_text ":  "知乎 @明星聊一聊 ",
        "lighting ":  "soft, warm indoor lighting "
     }
   }
@@ -2063,7 +1896,6 @@ ai绘图prompt
     },
      "lighting ":  "Natural sunlight, creating a warm and soft atmosphere ",
      "metadata ": {
-       "source_watermark ":  "知乎 @明星聊一聊 "
     }
   }
 }
@@ -2071,13 +1903,14 @@ ai绘图prompt
 
 ```json
 {
-   "chinese ": {
-     "description ":  "这是一张充满田园诗意与宁静氛围的人像摄影。照片中，一位年轻女子身穿深褐色的蕾丝吊带长裙，站在一片开满蓝色野花的绿色草地中。她梳着侧边的麻花辫，佩戴着金色的耳饰，脸上带着温柔恬静的微笑，目光望向左侧的远方。她的双手轻轻握着几株细长的野草和蓝色小花。背景是柔和的自然光，远处似乎是平静的水面或河岸，整体色调温暖而唯美。 "
-  },
-   "english ": {
+  "description ":  "这是一张充满田园诗意与宁静氛围的人像摄影。照片中，一位年轻女子身穿深褐色的蕾丝吊带长裙，站在一片开满蓝色野花的绿色草地中。她梳着侧边的麻花辫，佩戴着金色的耳饰，脸上带着温柔恬静的微笑，目光望向左侧的远方。她的双手轻轻握着几株细长的野草和蓝色小花。背景是柔和的自然光，远处似乎是平静的水面或河岸，整体色调温暖而唯美。 "
+  }
+```
+
+```json
+ {
      "description ":  "This is a portrait photograph filled with pastoral poetry and a serene atmosphere. In the photo, a young woman wearing a dark brown lace slip dress stands amidst a green meadow blooming with blue wildflowers. She has her hair styled in a side braid, wears gold earrings, and sports a gentle, tranquil smile as she gazes towards the distance on her left. Her hands are gently holding a few stalks of grass and small blue flowers. The background features soft natural light, suggesting a calm body of water or riverbank in the distance, creating an overall warm and aesthetic tone. "
   }
-}
 ```
 
 ```json
@@ -2111,7 +1944,6 @@ ai绘图prompt
        "foreground_elements ":  "a white vertical structure (possibly a door frame or wall edge) on the right side "
     },
      "metadata ": {
-       "watermark ":  "知乎 @明星聊一聊 ",
        "estimated_source ":  "Social media post (Zhihu) "
     }
   }
@@ -2120,305 +1952,151 @@ ai绘图prompt
 
 ```json
 {
-   "chinese ":  "一张高画质的人像摄影，一位年轻的亚洲女性，拥有白皙的皮肤和精致的五官。她留着黑色的长发，编成一条松散的侧边麻花辫，垂落在左肩前。她身穿一件优雅的米白色露肩礼服，礼服上半部分有精美的蕾丝和珠绣装饰，显得非常华丽。她佩戴着夸张的银色水滴形耳环和戒指。她的姿态优雅，身体微微侧转，目光望向右侧，神情略带清冷和沉思。她的手指轻轻搭在辫子上。背景较暗，右侧有一个模糊的白色柱状结构，营造出一种室内高级晚宴或杂志拍摄的氛围。光线柔和，带有一点复古胶片的颗粒感和电影质感。 ",
-   "english ":  "A high-quality portrait photography of a young Asian woman with fair skin and delicate features. She has long black hair styled in a loose side braid that drapes over her left shoulder. She is wearing an elegant off-the-shoulder beige gown, featuring exquisite lace and beadwork embroidery on the bodice, looking very luxurious. She wears statement silver teardrop earrings and rings. Her pose is graceful, body turned slightly, gazing to the right with a cool and contemplative expression. Her fingers are gently touching her braid. The background is dark, with a blurred white column-like structure on the right, creating an atmosphere of an upscale indoor event or magazine shoot. The lighting is soft, with a touch of vintage film grain and a cinematic texture. "
+   "一张高画质的人像摄影，一位年轻的亚洲女性，拥有白皙的皮肤和精致的五官。她留着黑色的长发，编成一条松散的侧边麻花辫，垂落在左肩前。她身穿一件优雅的米白色露肩礼服，礼服上半部分有精美的蕾丝和珠绣装饰，显得非常华丽。她佩戴着夸张的银色水滴形耳环和戒指。她的姿态优雅，身体微微侧转，目光望向右侧，神情略带清冷和沉思。她的手指轻轻搭在辫子上。背景较暗，右侧有一个模糊的白色柱状结构，营造出一种室内高级晚宴或杂志拍摄的氛围。光线柔和，带有一点复古胶片的颗粒感和电影质感。 ",
+}
+```
+
+```json
+{
+    "A high-quality portrait photography of a young Asian woman with fair skin and delicate features. She has long black hair styled in a loose side braid that drapes over her left shoulder. She is wearing an elegant off-the-shoulder beige gown, featuring exquisite lace and beadwork embroidery on the bodice, looking very luxurious. She wears statement silver teardrop earrings and rings. Her pose is graceful, body turned slightly, gazing to the right with a cool and contemplative expression. Her fingers are gently touching her braid. The background is dark, with a blurred white column-like structure on the right, creating an atmosphere of an upscale indoor event or magazine shoot. The lighting is soft, with a touch of vintage film grain and a cinematic texture. "
 }
 ```
 
 
 
 
-",
-    "timestamp": "2026-03-16T08:03:33.548Z",
-    "imageType": "upload",
-    "imageUrl": null,
-    "imagePath": null,
-    "prompt": "请分别用中文、英文以json格式返回这张图片，以便于作为prompt让我使用flux2模型复现它。"
-  },
+```json
   {
-    "id": "1768485179604",
-    "title": "图像描述 - 2026/1/15 21:52:59",
-    "result": "一位年轻亚洲女性坐在汽车后座，面带微笑看向镜头，右手举起轻轻挥手致意，左手拿着手机。她留着深色长发，身穿浅棕色无袖上衣，手腕佩戴白色智能手表。车座为深灰色皮质，带有红色缝线装饰，头枕处有黑色颈枕。车窗外可见模糊的绿色植被和护栏，光线明亮柔和，整体氛围轻松自然、生活化。拍摄角度为车内近景，构图聚焦人物表情与动作，背景虚化突出主体。",
-    "timestamp": "2026-01-15T13:52:59.604Z",
-    "imageType": "upload",
-    "imageUrl": null,
-    "imagePath": null,
-    "prompt": "描述这幅图,生成prompt以使用Z-image完美复现,直接生成prompt给我。"
-  },
-  {
-    "id": "1768484095924",
-    "title": "图像描述 - 2026/1/15 21:34:55",
-    "result": "一位年轻亚洲女性在夜晚户外微笑，她留着柔顺的深棕色长发，身穿一件带有灰绿色植物印花的半透明雪纺衬衫，搭配黑色下装。背景是虚化的夜景，有被灯光照亮的绿树和模糊的街灯，营造出温暖柔和的氛围。她坐在一张深色金属框架的户外椅子上，身体微微侧转，目光温柔直视镜头，笑容自然甜美。画面采用浅景深，突出人物主体，光线来自左上方，柔和地打在她的脸上，整体色调偏暖，充满宁静与生活气息。
-    
-    —— Z-image Prompt ——
-    
-    A young Asian woman smiling warmly at night outdoors, long smooth dark brown hair, wearing a semi-transparent chiffon blouse with gray-green botanical print and black bottom. She is seated on a dark metal-framed outdoor chair, body slightly turned, gazing gently into the camera with a natural, sweet smile. Background features softly blurred night scenery with illuminated green trees and distant streetlights, creating a cozy and gentle ambiance. Shallow depth of field emphasizes the subject, soft lighting from upper left illuminates her face, warm color tone overall, serene and full of everyday life charm.",
-    "timestamp": "2026-01-15T13:34:55.924Z",
-    "imageType": "upload",
-    "imageUrl": null,
-    "imagePath": null,
-    "prompt": "描述这幅图,生成prompt以使用Z-image完美复现,直接生成prompt给我。"
-  },
-  {
-    "id": "1768483306510",
-    "title": "图像描述 - 2026/1/15 21:21:46",
-    "result": "一位年轻亚洲女性坐在室内柜台旁，身穿米白色长款风衣，内搭深蓝色连衣裙与领结，留着齐肩棕色直发，面带温柔微笑注视镜头。她身旁放置一个透明亚克力礼盒，内装粉色玫瑰花制成的独角兽造型花艺，独角兽头戴银色角与白色鬃毛，礼盒系有印“BEST WISHES FOR YOU”字样的粉色丝带。背景为浅灰色纹理墙面，右侧可见电源插座，地面为灰白斑点水磨石台面。整体光线柔和，氛围温馨浪漫，构图偏右侧人物主体，左侧留出花艺展示空间，风格写实自然，适合用于社交媒体或礼物场景。
-    
-    ——
-    
-    **Z-image Prompt:**
-    
-    A young Asian woman sitting on a speckled white-and-gray countertop indoors, wearing a long off-white trench coat over a navy blue dress with a matching bow tie. She has shoulder-length straight brown hair and is smiling gently at the camera. Next to her is a transparent acrylic gift box containing a pink rose unicorn sculpture — the unicorn has a silver horn, fluffy white mane, and is wrapped with a pink ribbon that reads “BEST WISHES FOR YOU.” The background features a light gray textured wall with a visible power outlet on the right. Soft ambient lighting creates a warm, romantic atmosphere. Realistic photography style, composition focused on the woman slightly right of center, leaving space for the unicorn gift on the left. Ideal for social media or gifting context.",
-    "timestamp": "2026-01-15T13:21:46.510Z",
-    "imageType": "upload",
-    "imageUrl": null,
-    "imagePath": null,
-    "prompt": "描述这幅图,生成prompt以使用Z-image完美复现,直接生成prompt给我。"
-  },
-  {
-    "id": "1768483230314",
-    "title": "图像描述 - 2026/1/15 21:20:30",
-    "result": "一位年轻亚洲女性，留着齐刘海及肩黑发，部分头发在脑后挽成优雅低发髻，几缕卷发垂落颈侧。她身穿一件米白色单肩礼服，肩部有轻盈飘逸的薄纱披肩，胸前饰有精致金属花朵胸针，礼服上隐约可见刺绣花纹。她坐在一张浅灰色皮质沙发中，背景是带有纹理的米白色墙面，光线柔和自然，营造出温馨高雅的氛围。人物表情温柔平静，直视镜头，妆容淡雅，佩戴小巧珍珠耳钉。整体构图为中近景人像，突出人物气质与服装细节，风格写实、清新、略带复古感。
-    
-    —— 用于Z-image复现的Prompt ——
-    
-    A young Asian woman with straight black shoulder-length hair and bangs, one side elegantly pinned back into a low bun with soft curls framing her neck. She wears an off-shoulder cream-colored gown with a flowing sheer drape over one arm, adorned with a delicate metallic floral brooch at the bust and subtle embroidered patterns on the bodice. Seated on a light gray leather sofa against a textured off-white wall, she gazes softly at the camera with gentle expression, wearing minimal makeup and small pearl stud earrings. Soft natural lighting enhances the serene, elegant, slightly vintage atmosphere. Medium close-up portrait, photorealistic, high detail, clean composition, warm and sophisticated mood.",
-    "timestamp": "2026-01-15T13:20:30.314Z",
-    "imageType": "upload",
-    "imageUrl": null,
-    "imagePath": null,
-    "prompt": "描述这幅图,生成prompt以使用Z-image完美复现,直接生成prompt给我。"
-  },
-  {
-    "id": "1768318556821",
-    "title": "图像描述 - 2026/1/13 23:35:56",
-    "result": "一位年轻女性的特写自拍，她戴着黑色细框圆形眼镜，黑色中长发自然垂落，身穿黑色V领上衣，微微仰头看向镜头，嘴唇微张，表情自然放松。背景为深色软垫或沙发，光线柔和偏暖，突出面部轮廓与皮肤质感，整体氛围安静、日常、有生活感。高清晰度，细节丰富，真实摄影风格。",
-    "timestamp": "2026-01-13T15:35:56.821Z",
-    "imageType": "upload",
-    "imageUrl": null,
-    "imagePath": null,
-    "prompt": "描述这幅图,生成prompt以使用Z-image完美复现,直接生成prompt给我。"
-  },
-  {
-    "id": "1768318445727",
-    "title": "图像描述 - 2026/1/13 23:34:05",
-    "result": "一位年轻优雅的亚洲女性走在城市商业街的人行道上，身穿修身黑色吊带鱼尾长裙，肩带纤细，领口方正，裙摆随步伐轻扬。她留着自然微卷的深棕色中长发，面带温柔微笑直视镜头，颈间佩戴一条精致细链项链。右手提着一只米白色几何造型手提包，脚穿裸色高跟鞋（部分可见）。背景是现代都市街景：左侧有黑色花箱种植橙红色花卉，后方是玻璃幕墙建筑，墙上挂有男性时尚广告海报；右侧远处可见一名穿白衬衫黑裤的保安站立在商场入口。阳光从左上方斜照，地面铺有灰色地砖，光影分明，整体氛围时尚、清新、高级感十足，构图采用中景人像，焦点清晰，背景虚化，呈现电影感胶片色调。",
-    "timestamp": "2026-01-13T15:34:05.727Z",
-    "imageType": "upload",
-    "imageUrl": null,
-    "imagePath": null,
-    "prompt": "描述这幅图,生成prompt以使用Z-image完美复现,直接生成prompt给我。"
-  },
-  {
-    "id": "1768297866485",
-    "title": "图像描述 - 2026/1/13 17:51:06",
-    "result": "一位年轻女性跪坐在床上，身穿一件浅粉色高开叉挂脖连衣裙，搭配白色过膝长袜。她留着金色齐刘海与深色马尾辫，妆容精致，眼神直视镜头。左手轻抚身后一幅梦幻风景挂画——画中是粉紫色云朵、新月和远山。背景左侧可见蓝色小柜子和卡通图案布帘。整体光线柔和，色调温馨浪漫，营造出甜美又略带性感的卧室氛围。画面构图居中，人物姿态优雅舒展，细节清晰，质感细腻。",
-    "timestamp": "2026-01-13T09:51:06.485Z",
-    "imageType": "upload",
-    "imageUrl": null,
-    "imagePath": null,
-    "prompt": "描述这幅图,生成prompt以使用Z-image完美复现,直接生成prompt给我。"
-  },
-  {
-    "id": "1768297707819",
-    "title": "图像描述 - 2026/1/13 17:48:27",
-    "result": "一位年轻女性坐在木地板上，双腿张开，身穿白色短袖水手服衬衫，领口系着红色蝴蝶结，衬衫敞开露出白色内衣，下身穿着蓝红格纹百褶短裙，搭配白色过膝长袜。她低头看向地面，面部被模糊处理。背景是明亮的窗户，阳光透过薄纱窗帘洒入室内，在地板上形成柔和光斑与条纹阴影。画面整体色调偏暖，带有柔焦与轻微过曝效果，营造出朦胧、静谧的日系氛围。右下角可见部分黄色布料物体。画面中央有半透明水印文字“bunnylin-love.tumblr.com”。镜头采用低角度平视拍摄，构图居中，强调光影与人物姿态。
-    
-    ——
-    
-    **Z-image Prompt:**
-    
-    A young woman sitting on a polished wooden floor with legs spread apart, wearing a white short-sleeved sailor-style shirt with an open front revealing a white bralette, tied with a red ribbon bow at the collar, paired with a pleated plaid skirt in blue and red tones, and white knee-high socks. She is looking down with her face blurred. Behind her, bright sunlight streams through sheer white curtains from a large window, casting soft highlights and striped shadows across the floor. The scene has a warm, hazy, overexposed aesthetic with soft focus, evoking a quiet, dreamy Japanese-style atmosphere. A yellow fabric object is partially visible in the lower right corner. Centered composition, low-angle eye-level shot. Semi-transparent watermark text “bunnylin-love.tumblr.com” centered on image. Style: photorealistic, soft lighting, cinematic mood, gentle color grading.",
-    "timestamp": "2026-01-13T09:48:27.819Z",
-    "imageType": "upload",
-    "imageUrl": null,
-    "imagePath": null,
-    "prompt": "描述这幅图,生成prompt以使用Z-image完美复现,直接生成prompt给我。"
-  },
-  {
-    "id": "1768297564358",
-    "title": "图像描述 - 2026/1/13 17:46:04",
-    "result": "一位年轻女性，闭着眼睛，表情放松，穿着粉色透明女仆装，领口有白色蝴蝶结装饰，搭配白色蕾丝边吊带袜。她留着黑色长发，扎成双马尾，头戴白色蕾丝发饰。坐在柔软的白色毛绒地毯上，背景是室内环境，光线柔和明亮，整体氛围甜美、梦幻、性感。风格为高清写实日系少女风，细节精致，皮肤光滑，光影自然。",
-    "timestamp": "2026-01-13T09:46:04.358Z",
-    "imageType": "upload",
-    "imageUrl": null,
-    "imagePath": null,
-    "prompt": "描述这幅图,生成prompt以使用Z-image完美复现,直接生成prompt给我。"
-  },
-  {
-    "id": "1768297410474",
-    "title": "图像描述 - 2026/1/13 17:43:30",
-    "result": "一位拥有银白色长发和蓝色大眼睛的年轻女性，正坐在柔软的白色地毯上。她穿着一件白色短袖连体衣，衣上有青绿色图案和粉色花朵装饰，袖口与裤脚边缘有青绿色条纹。她的头发两侧各别着一个粉色蝴蝶结发饰，双手轻轻拉开胸前的衣襟，露出部分肌肤，表情略带羞涩地直视镜头。背景为浅米色墙面，右侧可见藤编家具一角，左侧有镜子反光，整体光线柔和明亮，营造出温馨可爱的室内氛围。风格为高精度写实cosplay摄影，细节清晰，色彩柔和，适合用于Z-image生成。",
-    "timestamp": "2026-01-13T09:43:30.474Z",
-    "imageType": "upload",
-    "imageUrl": null,
-    "imagePath": null,
-    "prompt": "描述这幅图,生成prompt以使用Z-image完美复现,直接生成prompt给我。"
-  },
-  {
-    "id": "1768297306038",
-    "title": "图像描述 - 2026/1/13 17:41:46",
-    "result": "一位年轻女性跪坐在白色床上，身穿白色蕾丝边女仆装，搭配黑色丝袜和同款蕾丝吊袜带。她留着深棕色双马尾长发，齐刘海，妆容精致，红唇微启，眼神直视镜头，表情温柔略带羞涩。背景为明亮简约的室内空间，白色墙壁、拱形门洞、远处可见摄影灯架与置物柜，床边放有米色抱枕。整体光线柔和自然，色调清新干净，画面聚焦人物，构图居中，氛围甜美私密。
-    
-    —— Z-image Prompt ——
-    
-    a young beautiful woman kneeling on a white bed, wearing a white frilly maid outfit with black trim, black thigh-high stockings with lace garters, long dark brown hair in twin ponytails with bangs, soft makeup and red lips, looking directly at the camera with gentle shy expression, bright minimalist room background with white walls, arched doorway, photography light stand and storage cabinet visible in distance, beige pillow beside her, soft natural lighting, clean pastel tones, centered composition, sweet and intimate atmosphere, high detail, realistic skin texture, 8K ultra HD",
-    "timestamp": "2026-01-13T09:41:46.038Z",
-    "imageType": "upload",
-    "imageUrl": null,
-    "imagePath": null,
-    "prompt": "描述这幅图,生成prompt以使用Z-image完美复现,直接生成prompt给我。"
-  },
-  {
-    "id": "1768297111023",
-    "title": "图像描述 - 2026/1/13 17:38:31",
-    "result": "一位年轻女性坐在铺着白色床单的床上，她有着一半白一半黑的长直发，头顶戴着一对黑色毛绒熊猫耳朵发饰。她身穿一件半透明的白色旗袍式连体衣，领口和侧边有黑色镶边，胸前是黑色系带设计，内搭黑色心形金属环装饰的胸衣。她穿着黑色过膝丝袜，双腿微张跪坐，双手自然放在膝盖附近，面带微笑直视镜头。背景是明亮的现代卧室，左侧墙上挂着投影幕布，远处可见白色吧台椅和拱形门廊，床边散落着零食包装和一个米色抱枕。整体光线柔和自然，色调干净清新，营造出甜美又略带性感的氛围。
-    
-    ——
-    
-    **Z-image Prompt:**
-    
-    A young woman with half-white, half-black long straight hair and black fluffy panda ear headband, sitting on a white bed in a bright modern bedroom. She wears a semi-transparent white cheongsam-style bodysuit with black trim and lace-up front, revealing a black bra with heart-shaped metal ring detail. She’s wearing black thigh-high stockings, kneeling with legs slightly apart, hands resting gently on her knees, smiling softly at the camera. Background includes a projector screen on the left wall, white bar stools and arched doorway in the distance, scattered snacks and a beige pillow beside her. Soft natural lighting, clean aesthetic, sweet yet subtly sensual vibe. High detail, photorealistic, 8K resolution, full-body portrait, centered composition.",
-    "timestamp": "2026-01-13T09:38:31.023Z",
-    "imageType": "upload",
-    "imageUrl": null,
-    "imagePath": null,
-    "prompt": "描述这幅图,生成prompt以使用Z-image完美复现,直接生成prompt给我。"
-  },
-  {
-    "id": "1768296948904",
-    "title": "图像描述 - 2026/1/13 17:35:48",
-    "result": "一位年轻女性坐在床上，身穿白色针织羊角主题服装，头戴带有米色螺旋羊角的白色毛绒发箍，黑色长发扎成双马尾，穿着白色高领镂空针织上衣（胸前有系带设计），搭配白色透明丝袜和白色针织蝴蝶结装饰的过膝袜套。她双腿交叠，手轻抚衣襟，眼神直视镜头，表情温柔略带羞涩。背景是温馨卧室，左侧有木质置物架，右侧是浅棕色窗帘，床铺上有几何图案被子和一个白色卡通抱枕。整体画面柔和明亮，色调以白色与米色为主，营造出可爱、温暖、甜美的氛围。",
-    "timestamp": "2026-01-13T09:35:48.904Z",
-    "imageType": "upload",
-    "imageUrl": null,
-    "imagePath": null,
-    "prompt": "描述这幅图,生成prompt以使用Z-image完美复现,直接生成prompt给我。"
-  },
-  {
-    "id": "1768296851568",
-    "title": "图像描述 - 2026/1/13 17:34:11",
-    "result": "一位年轻女性斜躺在柔软的床上，穿着白色高领镂空针织毛衣，搭配白色丝袜和蓝色绒面拖鞋。她头戴可爱的羊角发箍，黑色长发扎成双马尾，面带温柔微笑直视镜头。背景是浅色床品与几何图案抱枕，整体氛围温馨、甜美、居家。光线柔和明亮，色调以白色、浅粉和淡蓝为主，画面充满少女感与舒适感。
-    
-    Prompt for Z-image:
-    A young woman lying diagonally on a soft bed, wearing a white high-neck knitted sweater with cut-out details and white thigh-high stockings, paired with light blue fluffy slippers. She has long black hair in twin tails, wearing an adorable sheep-horn headband, smiling gently at the camera. Background includes pastel-colored bedding and geometric patterned pillows. Soft natural lighting, cozy and sweet aesthetic, warm and inviting atmosphere, ultra-detailed skin texture, realistic fabric folds, shallow depth of field, 8K resolution, studio portrait style.",
-    "timestamp": "2026-01-13T09:34:11.568Z",
-    "imageType": "upload",
-    "imageUrl": null,
-    "imagePath": null,
-    "prompt": "描述这幅图,生成prompt以使用Z-image完美复现,直接生成prompt给我。"
-  },
-  {
-    "id": "1768296776361",
-    "title": "图像描述 - 2026/1/13 17:32:56",
-    "result": "一位年轻亚洲女性，留着乌黑柔顺的长发与齐刘海，正温柔微笑看向镜头。她身穿一件白色底、带有浅粉与淡蓝细条纹的吊带背心，领口饰有蕾丝边和一枚粉色小蝴蝶结，下身搭配白色短裤，腿上随意搭着一条浅蓝色破洞牛仔短裤。她坐在室内床上，背景可见绿色棕榈叶图案的窗帘、灰白几何纹靠垫、墙上挂着透明塑料袋装的彩色画笔，以及右侧花卉装饰画框。整体光线柔和明亮，氛围清新自然，构图聚焦人物半身，展现居家休闲感。
-    
-    ——
-    
-    **Z-image Prompt：**
-    
-    A young Asian woman with long, silky black hair and bangs, gently smiling at the camera. She wears a white spaghetti strap top with delicate pink and light blue horizontal stripes, featuring lace trim and a small pink bow at the neckline. Paired with white shorts, she has a light blue ripped denim short draped over her lap. Sitting on a bed in a cozy indoor setting, background includes a green palm leaf patterned curtain, gray-and-white chevron cushion, wall-mounted clear plastic bag holding colorful paintbrushes, and a floral-framed artwork to the right. Soft natural lighting, warm and inviting atmosphere, medium close-up shot focusing on upper body, capturing casual home aesthetic. Realistic style, high detail, 8K resolution, sharp focus on facial expression and fabric texture.",
-    "timestamp": "2026-01-13T09:32:56.361Z",
-    "imageType": "upload",
-    "imageUrl": null,
-    "imagePath": null,
-    "prompt": "描述这幅图,生成prompt以使用Z-image完美复现,直接生成prompt给我。"
-  },
-  {
-    "id": "1768296703608",
-    "title": "图像描述 - 2026/1/13 17:31:43",
-    "result": "一位年轻亚洲女性在卧室中自拍，她有着柔顺的黑色长发和齐刘海，面带温柔微笑，眼神清澈。她身穿一件浅色条纹吊带睡衣，领口饰有白色蕾丝花边和一个粉色小蝴蝶结，下摆为荷叶边设计。背景是温馨的卧室环境，可见床铺、条纹床单、粉色抱枕及一盏绿色底座的台灯，光线柔和自然。画面构图近景特写，突出人物面部与上半身，整体氛围甜美、清新、居家。
-    
-    —— Z-image Prompt ——
-    
-    “一位20岁左右的亚洲女性，黑长直发带齐刘海，温柔微笑，大眼睛，皮肤白皙细腻，穿着浅粉蓝白条纹蕾丝边吊带睡衣，领口有粉色小蝴蝶结，下摆荷叶边，坐在床上自拍视角，背景是温馨卧室，有条纹床单、粉色花朵抱枕、绿色复古台灯，自然光从侧面照入，画面清晰柔和，甜美清新风格，高细节，8K画质。”",
-    "timestamp": "2026-01-13T09:31:43.608Z",
-    "imageType": "upload",
-    "imageUrl": null,
-    "imagePath": null,
-    "prompt": "描述这幅图,生成prompt以使用Z-image完美复现,直接生成prompt给我。"
-  },
-  {
-    "id": "1768296538235",
-    "title": "图像描述 - 2026/1/13 17:28:58",
-    "result": "【Z-image Prompt】  
-    一位银白色短发、紫唇的性感女性战士，身着华丽的紫色与金色相间的战斗装束，上身为紧身蕾丝胸甲配金属护肩，下身是高开衩蕾丝长裙与绑带式大腿护具，搭配黑色网袜与金属装饰。她双臂交叉于胸前，眼神冷艳自信，背景为阳光明媚的欧洲古典建筑广场（类似威尼斯圣马可钟楼），蓝天白云映衬，画面中漂浮着多个刻有神秘符文的金属立方体，整体风格为超写实动漫风，光影强烈，细节精致，充满戏剧张力与奇幻氛围。艺术家签名“Sakimichan”位于右下角。",
-    "timestamp": "2026-01-13T09:28:58.235Z",
-    "imageType": "upload",
-    "imageUrl": null,
-    "imagePath": null,
-    "prompt": "描述这幅图,生成prompt以使用Z-image完美复现,直接生成prompt给我。"
-  },
-  {
-    "id": "1768296281693",
-    "title": "图像描述 - 2026/1/13 17:24:41",
-    "result": "【Z-image Prompt】  
-    A highly detailed, vibrant anime-style illustration of a young woman in a beach volleyball setting. She wears a blue and gold bikini top with crescent moon patterns, paired with a sheer blue sarong tied at her hip. Her skin is glistening with sweat and water droplets, emphasizing a sun-kissed, athletic physique. She holds a white-and-blue volleyball under her left arm, featuring Korean text  "스파이크 " (Spike) on its surface. Her right hand rests on her hip, adorned with a black spiked wristband. Her dark brown hair is tied back with a white ribbon, and she wears red spherical earrings. Behind her, a tropical beach scene unfolds: palm fronds frame the upper left corner, while turquoise ocean waves and a bright blue sky with soft clouds stretch into the background. The lighting is warm and natural, casting soft highlights and shadows to enhance realism and depth. Art style blends dynamic anime proportions with painterly realism, reminiscent of Sakimichan’s signature aesthetic — smooth skin textures, expressive eyes, and fluid fabric movement. Include subtle artist watermark: “ART©SAKIMICHAN.DEVIANTART.COM” and “ART©SAKIMICHAN.TUMBLR.COM” faintly visible in corners. --ar 3:4 --v 6 --q 2 --style raw",
-    "timestamp": "2026-01-13T09:24:41.693Z",
-    "imageType": "upload",
-    "imageUrl": null,
-    "imagePath": null,
-    "prompt": "描述这幅图,生成prompt以使用Z-image完美复现,直接生成prompt给我。"
-  },
-  {
-    "id": "1768296270018",
-    "title": "图像描述 - 2026/1/13 17:24:30",
-    "result": "【Z-image Prompt】  
-    动漫风格女性角色全身特写，高饱和度光影渲染，柔焦背景中飘散花瓣与朦胧绿植。角色黑长直发随风扬起，头顶架着橙色镜片太阳镜，蓝色眼眸凝视镜头，嘴角微扬带自信神情。身着深蓝露肩短上衣，胸前有白色蝴蝶结装饰与拉链细节，下搭粉色系带腰裙，裙侧饰绿色底白花图案。双手优雅抬起，指尖轻触发丝，姿态动感流畅。整体画面采用霓虹紫粉光晕勾边，皮肤透亮细腻，强调曲线与布料褶皱质感，营造梦幻性感氛围。艺术家签名水印“ART(C)SAKIMICHAN.DEVIANTART.COM”与“ART(C)SAKIMICHAN.TUMBLR.COM”置于画面上下边缘。  
-    
-    （提示：使用Z-image时可添加“--v 6 --ar 3:4 --style anime --q 2”参数提升还原精度）",
-    "timestamp": "2026-01-13T09:24:30.018Z",
-    "imageType": "upload",
-    "imageUrl": null,
-    "imagePath": null,
-    "prompt": "描述这幅图,生成prompt以使用Z-image完美复现,直接生成prompt给我。"
-  },
-  {
-    "id": "1768296145864",
-    "title": "图像描述 - 2026/1/13 17:22:25",
-    "result": "【Z-image Prompt】  
-    动漫风格女性角色，橙红色长发飘逸，棕色眼眸，面带自信微笑。身穿蓝白条纹比基尼上衣，搭配破洞牛仔短裤，腰间系有金属环扣皮带。右手持蓝色圆筒状武器（类似炮管或望远镜），左手轻抚后脑勺，身体前倾呈动态战斗姿势。背景为深色烟雾与飞散金币，带有光影粒子特效，营造动感与戏剧氛围。画面右下角有“ART©SAKIMICHAN.DEVIANTART.COM”水印。整体画风精致细腻，色彩鲜艳，高光与阴影对比强烈，具有插画大师Sakimichan标志性风格。",
-    "timestamp": "2026-01-13T09:22:25.864Z",
-    "imageType": "upload",
-    "imageUrl": null,
-    "imagePath": null,
-    "prompt": "描述这幅图,生成prompt以使用Z-image完美复现,直接生成prompt给我。"
-  },
-  {
-    "id": "1768296078620",
-    "title": "图像描述 - 2026/1/13 17:21:18",
-    "result": "【Z-image Prompt】  
-    动漫风格女性角色全身特写，粉色渐变长发扎成高马尾，蓝眼睛，佩戴黑色带红色X标志的耳机麦克风。身穿紫色铆钉装饰比基尼上衣与短裤，金色尖刺铆钉点缀，腰间系宽皮带配大型金色兽首扣环。双臂举过头顶，手肘弯曲，姿态性感自信。背景为青蓝色底色+斜向彩虹条纹（粉、黄、蓝、紫），光影柔和带高光渲染，画风细腻带数字绘画笔触感，右下角有“SakiniChun”手写签名水印。整体色彩鲜艳，充满活力与潮流感，突出角色曲线与服饰细节。",
-    "timestamp": "2026-01-13T09:21:18.620Z",
-    "imageType": "upload",
-    "imageUrl": null,
-    "imagePath": null,
-    "prompt": "描述这幅图,生成prompt以使用Z-image完美复现,直接生成prompt给我。"
-  },
-  {
-    "id": "1768296013915",
-    "title": "图像描述 - 2026/1/13 17:20:13",
-    "result": "prompt:  
-    A highly detailed, dynamic digital painting of a fierce female warrior in an intense combat pose, holding a katana overhead with both hands, her long dark hair flowing dramatically in the wind. She wears a torn silver-gray tank top revealing toned abs and muscular arms wrapped in white bandages. Her expression is determined and slightly exhausted, with sweat glistening on her skin and dirt smudges across her face. She’s crouched on a dark rock amidst a chaotic battlefield background — glowing embers, blurred trees, and flickering fire at her feet. The lighting is dramatic, with strong backlighting creating rim highlights and volumetric sunbeams piercing through smoke. Art style: hyper-realistic anime-inspired fantasy, rich textures, painterly brushwork, high contrast, cinematic composition. Color palette: warm oranges and yellows from fire, cool greys and blacks on clothing, natural skin tones with wet sheen. Signature watermark “ART(C)SAKIMICHAN.DEVIANTART.COM” faintly visible in corners.
+    "一位年轻亚洲女性坐在汽车后座，面带微笑看向镜头，右手举起轻轻挥手致意，左手拿着手机。她留着深色长发，身穿浅棕色无袖上衣，手腕佩戴白色智能手表。车座为深灰色皮质，带有红色缝线装饰，头枕处有黑色颈枕。车窗外可见模糊的绿色植被和护栏，光线明亮柔和，整体氛围轻松自然、生活化。拍摄角度为车内近景，构图聚焦人物表情与动作，背景虚化突出主体。",
+    }
+```
+
+```json
+  {"一位年轻亚洲女性在夜晚户外微笑，她留着柔顺的深棕色长发，身穿一件带有灰绿色植物印花的半透明雪纺衬衫，搭配黑色下装。背景是虚化的夜景，有被灯光照亮的绿树和模糊的街灯，营造出温暖柔和的氛围。她坐在一张深色金属框架的户外椅子上，身体微微侧转，目光温柔直视镜头，笑容自然甜美。画面采用浅景深，突出人物主体，光线来自左上方，柔和地打在她的脸上，整体色调偏暖，充满宁静与生活气息。
+}
+```
+
+```json
+A young Asian woman smiling warmly at night outdoors, long smooth dark brown hair, wearing a semi-transparent chiffon blouse with gray-green botanical print and black bottom. She is seated on a dark metal-framed outdoor chair, body slightly turned, gazing gently into the camera with a natural, sweet smile. Background features softly blurred night scenery with illuminated green trees and distant streetlights, creating a cozy and gentle ambiance. Shallow depth of field emphasizes the subject, soft lighting from upper left illuminates her face, warm color tone overall, serene and full of everyday life charm.
+```
+
+```json
+一位年轻亚洲女性坐在室内柜台旁，身穿米白色长款风衣，内搭深蓝色连衣裙与领结，留着齐肩棕色直发，面带温柔微笑注视镜头。她身旁放置一个透明亚克力礼盒，内装粉色玫瑰花制成的独角兽造型花艺，独角兽头戴银色角与白色鬃毛，礼盒系有印“BEST WISHES FOR YOU”字样的粉色丝带。背景为浅灰色纹理墙面，右侧可见电源插座，地面为灰白斑点水磨石台面。整体光线柔和，氛围温馨浪漫，构图偏右侧人物主体，左侧留出花艺展示空间，风格写实自然，适合用于社交媒体或礼物场景。
+```
+
+```json
+ A young Asian woman sitting on a speckled white-and-gray countertop indoors, wearing a long off-white trench coat over a navy blue dress with a matching bow tie. She has shoulder-length straight brown hair and is smiling gently at the camera. Next to her is a transparent acrylic gift box containing a pink rose unicorn sculpture — the unicorn has a silver horn, fluffy white mane, and is wrapped with a pink ribbon that reads “BEST WISHES FOR YOU.” The background features a light gray textured wall with a visible power outlet on the right. Soft ambient lighting creates a warm, romantic atmosphere. Realistic photography style, composition focused on the woman slightly right of center, leaving space for the unicorn gift on the left. Ideal for social media or gifting context.
+```
+
+```json
+一位年轻亚洲女性，留着齐刘海及肩黑发，部分头发在脑后挽成优雅低发髻，几缕卷发垂落颈侧。她身穿一件米白色单肩礼服，肩部有轻盈飘逸的薄纱披肩，胸前饰有精致金属花朵胸针，礼服上隐约可见刺绣花纹。她坐在一张浅灰色皮质沙发中，背景是带有纹理的米白色墙面，光线柔和自然，营造出温馨高雅的氛围。人物表情温柔平静，直视镜头，妆容淡雅，佩戴小巧珍珠耳钉。整体构图为中近景人像，突出人物气质与服装细节，风格写实、清新、略带复古感。
+```
+
+```json   
+A young Asian woman with straight black shoulder-length hair and bangs, one side elegantly pinned back into a low bun with soft curls framing her neck. She wears an off-shoulder cream-colored gown with a flowing sheer drape over one arm, adorned with a delicate metallic floral brooch at the bust and subtle embroidered patterns on the bodice. Seated on a light gray leather sofa against a textured off-white wall, she gazes softly at the camera with gentle expression, wearing minimal makeup and small pearl stud earrings. Soft natural lighting enhances the serene, elegant, slightly vintage atmosphere. Medium close-up portrait, photorealistic, high detail, clean composition, warm and sophisticated mood.
+```
+
+```json
+一位年轻女性的特写自拍，她戴着黑色细框圆形眼镜，黑色中长发自然垂落，身穿黑色V领上衣，微微仰头看向镜头，嘴唇微张，表情自然放松。背景为深色软垫或沙发，光线柔和偏暖，突出面部轮廓与皮肤质感，整体氛围安静、日常、有生活感。高清晰度，细节丰富，真实摄影风格。
+```
+
+```json
+一位年轻优雅的亚洲女性走在城市商业街的人行道上，身穿修身黑色吊带鱼尾长裙，肩带纤细，领口方正，裙摆随步伐轻扬。她留着自然微卷的深棕色中长发，面带温柔微笑直视镜头，颈间佩戴一条精致细链项链。右手提着一只米白色几何造型手提包，脚穿裸色高跟鞋（部分可见）。背景是现代都市街景：左侧有黑色花箱种植橙红色花卉，后方是玻璃幕墙建筑，墙上挂有男性时尚广告海报；右侧远处可见一名穿白衬衫黑裤的保安站立在商场入口。阳光从左上方斜照，地面铺有灰色地砖，光影分明，整体氛围时尚、清新、高级感十足，构图采用中景人像，焦点清晰，背景虚化，呈现电影感胶片色调。
+```
+
+```json
+一位年轻女性跪坐在床上，身穿一件浅粉色高开叉挂脖连衣裙，搭配白色过膝长袜。她留着金色齐刘海与深色马尾辫，妆容精致，眼神直视镜头。左手轻抚身后一幅梦幻风景挂画——画中是粉紫色云朵、新月和远山。背景左侧可见蓝色小柜子和卡通图案布帘。整体光线柔和，色调温馨浪漫，营造出甜美又略带性感的卧室氛围。画面构图居中，人物姿态优雅舒展，细节清晰，质感细腻。
+```
+
+```json
+一位年轻女性坐在木地板上，双腿张开，身穿白色短袖水手服衬衫，领口系着红色蝴蝶结，衬衫敞开露出白色内衣，下身穿着蓝红格纹百褶短裙，搭配白色过膝长袜。她低头看向地面，面部被模糊处理。背景是明亮的窗户，阳光透过薄纱窗帘洒入室内，在地板上形成柔和光斑与条纹阴影。画面整体色调偏暖，带有柔焦与轻微过曝效果，营造出朦胧、静谧的日系氛围。右下角可见部分黄色布料物体。画面中央有半透明水印文字“bunnylin-love.tumblr.com”。镜头采用低角度平视拍摄，构图居中，强调光影与人物姿态。
+```
+
+```json
+A young woman sitting on a polished wooden floor with legs spread apart, wearing a white short-sleeved sailor-style shirt with an open front revealing a white bralette, tied with a red ribbon bow at the collar, paired with a pleated plaid skirt in blue and red tones, and white knee-high socks. She is looking down with her face blurred. Behind her, bright sunlight streams through sheer white curtains from a large window, casting soft highlights and striped shadows across the floor. The scene has a warm, hazy, overexposed aesthetic with soft focus, evoking a quiet, dreamy Japanese-style atmosphere. A yellow fabric object is partially visible in the lower right corner. Centered composition, low-angle eye-level shot. Semi-transparent watermark text “bunnylin-love.tumblr.com” centered on image. Style: photorealistic, soft lighting, cinematic mood, gentle color grading.
+```
+ 
+```json
+一位年轻女性，闭着眼睛，表情放松，穿着粉色透明女仆装，领口有白色蝴蝶结装饰，搭配白色蕾丝边吊带袜。她留着黑色长发，扎成双马尾，头戴白色蕾丝发饰。坐在柔软的白色毛绒地毯上，背景是室内环境，光线柔和明亮，整体氛围甜美、梦幻、性感。风格为高清写实日系少女风，细节精致，皮肤光滑，光影自然。
+```
+
+```json
+一位拥有银白色长发和蓝色大眼睛的年轻女性，正坐在柔软的白色地毯上。她穿着一件白色短袖连体衣，衣上有青绿色图案和粉色花朵装饰，袖口与裤脚边缘有青绿色条纹。她的头发两侧各别着一个粉色蝴蝶结发饰，双手轻轻拉开胸前的衣襟，露出部分肌肤，表情略带羞涩地直视镜头。背景为浅米色墙面，右侧可见藤编家具一角，左侧有镜子反光，整体光线柔和明亮，营造出温馨可爱的室内氛围。风格为高精度写实cosplay摄影，细节清晰，色彩柔和，适合用于Z-image生成。
+```
+
+```json
+一位年轻女性跪坐在白色床上，身穿白色蕾丝边女仆装，搭配黑色丝袜和同款蕾丝吊袜带。她留着深棕色双马尾长发，齐刘海，妆容精致，红唇微启，眼神直视镜头，表情温柔略带羞涩。背景为明亮简约的室内空间，白色墙壁、拱形门洞、远处可见摄影灯架与置物柜，床边放有米色抱枕。整体光线柔和自然，色调清新干净，画面聚焦人物，构图居中，氛围甜美私密。
+```    
+
+```json 
+a young beautiful woman kneeling on a white bed, wearing a white frilly maid outfit with black trim, black thigh-high stockings with lace garters, long dark brown hair in twin ponytails with bangs, soft makeup and red lips, looking directly at the camera with gentle shy expression, bright minimalist room background with white walls, arched doorway, photography light stand and storage cabinet visible in distance, beige pillow beside her, soft natural lighting, clean pastel tones, centered composition, sweet and intimate atmosphere, high detail, realistic skin texture, 8K ultra HD
+```
+
+```json
+一位年轻女性坐在铺着白色床单的床上，她有着一半白一半黑的长直发，头顶戴着一对黑色毛绒熊猫耳朵发饰。她身穿一件半透明的白色旗袍式连体衣，领口和侧边有黑色镶边，胸前是黑色系带设计，内搭黑色心形金属环装饰的胸衣。她穿着黑色过膝丝袜，双腿微张跪坐，双手自然放在膝盖附近，面带微笑直视镜头。背景是明亮的现代卧室，左侧墙上挂着投影幕布，远处可见白色吧台椅和拱形门廊，床边散落着零食包装和一个米色抱枕。整体光线柔和自然，色调干净清新，营造出甜美又略带性感的氛围。
+```    
+   
+```json
+A young woman with half-white, half-black long straight hair and black fluffy panda ear headband, sitting on a white bed in a bright modern bedroom. She wears a semi-transparent white cheongsam-style bodysuit with black trim and lace-up front, revealing a black bra with heart-shaped metal ring detail. She’s wearing black thigh-high stockings, kneeling with legs slightly apart, hands resting gently on her knees, smiling softly at the camera. Background includes a projector screen on the left wall, white bar stools and arched doorway in the distance, scattered snacks and a beige pillow beside her. Soft natural lighting, clean aesthetic, sweet yet subtly sensual vibe. High detail, photorealistic, 8K resolution, full-body portrait, centered composition.
+```
+
+```json
+一位年轻女性坐在床上，身穿白色针织羊角主题服装，头戴带有米色螺旋羊角的白色毛绒发箍，黑色长发扎成双马尾，穿着白色高领镂空针织上衣（胸前有系带设计），搭配白色透明丝袜和白色针织蝴蝶结装饰的过膝袜套。她双腿交叠，手轻抚衣襟，眼神直视镜头，表情温柔略带羞涩。背景是温馨卧室，左侧有木质置物架，右侧是浅棕色窗帘，床铺上有几何图案被子和一个白色卡通抱枕。整体画面柔和明亮，色调以白色与米色为主，营造出可爱、温暖、甜美的氛围。
+```
+
+```json
+一位年轻女性斜躺在柔软的床上，穿着白色高领镂空针织毛衣，搭配白色丝袜和蓝色绒面拖鞋。她头戴可爱的羊角发箍，黑色长发扎成双马尾，面带温柔微笑直视镜头。背景是浅色床品与几何图案抱枕，整体氛围温馨、甜美、居家。光线柔和明亮，色调以白色、浅粉和淡蓝为主，画面充满少女感与舒适感。
+```    
+
+```json
+A young woman lying diagonally on a soft bed, wearing a white high-neck knitted sweater with cut-out details and white thigh-high stockings, paired with light blue fluffy slippers. She has long black hair in twin tails, wearing an adorable sheep-horn headband, smiling gently at the camera. Background includes pastel-colored bedding and geometric patterned pillows. Soft natural lighting, cozy and sweet aesthetic, warm and inviting atmosphere, ultra-detailed skin texture, realistic fabric folds, shallow depth of field, 8K resolution, studio portrait style.
+```
+
+```json
+一位年轻亚洲女性，留着乌黑柔顺的长发与齐刘海，正温柔微笑看向镜头。她身穿一件白色底、带有浅粉与淡蓝细条纹的吊带背心，领口饰有蕾丝边和一枚粉色小蝴蝶结，下身搭配白色短裤，腿上随意搭着一条浅蓝色破洞牛仔短裤。她坐在室内床上，背景可见绿色棕榈叶图案的窗帘、灰白几何纹靠垫、墙上挂着透明塑料袋装的彩色画笔，以及右侧花卉装饰画框。整体光线柔和明亮，氛围清新自然，构图聚焦人物半身，展现居家休闲感。
+```    
+
+```json  
+A young Asian woman with long, silky black hair and bangs, gently smiling at the camera. She wears a white spaghetti strap top with delicate pink and light blue horizontal stripes, featuring lace trim and a small pink bow at the neckline. Paired with white shorts, she has a light blue ripped denim short draped over her lap. Sitting on a bed in a cozy indoor setting, background includes a green palm leaf patterned curtain, gray-and-white chevron cushion, wall-mounted clear plastic bag holding colorful paintbrushes, and a floral-framed artwork to the right. Soft natural lighting, warm and inviting atmosphere, medium close-up shot focusing on upper body, capturing casual home aesthetic. Realistic style, high detail, 8K resolution, sharp focus on facial expression and fabric texture.
+```
+
+```json
+一位年轻亚洲女性在卧室中自拍，她有着柔顺的黑色长发和齐刘海，面带温柔微笑，眼神清澈。她身穿一件浅色条纹吊带睡衣，领口饰有白色蕾丝花边和一个粉色小蝴蝶结，下摆为荷叶边设计。背景是温馨的卧室环境，可见床铺、条纹床单、粉色抱枕及一盏绿色底座的台灯，光线柔和自然。画面构图近景特写，突出人物面部与上半身，整体氛围甜美、清新、居家。
+```    
+
+```json
+一位20岁左右的亚洲女性，黑长直发带齐刘海，温柔微笑，大眼睛，皮肤白皙细腻，穿着浅粉蓝白条纹蕾丝边吊带睡衣，领口有粉色小蝴蝶结，下摆荷叶边，坐在床上自拍视角，背景是温馨卧室，有条纹床单、粉色花朵抱枕、绿色复古台灯，自然光从侧面照入，画面清晰柔和，甜美清新风格，高细节，8K画质。
+```
+
+```json
+一位银白色短发、紫唇的性感女性战士，身着华丽的紫色与金色相间的战斗装束，上身为紧身蕾丝胸甲配金属护肩，下身是高开衩蕾丝长裙与绑带式大腿护具，搭配黑色网袜与金属装饰。她双臂交叉于胸前，眼神冷艳自信，背景为阳光明媚的欧洲古典建筑广场（类似威尼斯圣马可钟楼），蓝天白云映衬，画面中漂浮着多个刻有神秘符文的金属立方体，整体风格为超写实动漫风，光影强烈，细节精致，充满戏剧张力与奇幻氛围。艺术家签名“Sakimichan”位于右下角。
+```
+
+```json      
+A highly detailed, vibrant anime-style illustration of a young woman in a beach volleyball setting. She wears a blue and gold bikini top with crescent moon patterns, paired with a sheer blue sarong tied at her hip. Her skin is glistening with sweat and water droplets, emphasizing a sun-kissed, athletic physique. She holds a white-and-blue volleyball under her left arm, featuring Korean text  "스파이크 " (Spike) on its surface. Her right hand rests on her hip, adorned with a black spiked wristband. Her dark brown hair is tied back with a white ribbon, and she wears red spherical earrings. Behind her, a tropical beach scene unfolds: palm fronds frame the upper left corner, while turquoise ocean waves and a bright blue sky with soft clouds stretch into the background. The lighting is warm and natural, casting soft highlights and shadows to enhance realism and depth. Art style blends dynamic anime proportions with painterly realism, reminiscent of Sakimichan’s signature aesthetic — smooth skin textures, expressive eyes, and fluid fabric movement. Include subtle artist watermark: “ART©SAKIMICHAN.DEVIANTART.COM” and “ART©SAKIMICHAN.TUMBLR.COM” faintly visible in corners. --ar 3:4 --v 6 --q 2 --style raw
+```
+
+```json
+动漫风格女性角色全身特写，高饱和度光影渲染，柔焦背景中飘散花瓣与朦胧绿植。角色黑长直发随风扬起，头顶架着橙色镜片太阳镜，蓝色眼眸凝视镜头，嘴角微扬带自信神情。身着深蓝露肩短上衣，胸前有白色蝴蝶结装饰与拉链细节，下搭粉色系带腰裙，裙侧饰绿色底白花图案。双手优雅抬起，指尖轻触发丝，姿态动感流畅。整体画面采用霓虹紫粉光晕勾边，皮肤透亮细腻，强调曲线与布料褶皱质感，营造梦幻性感氛围。艺术家签名水印“ART(C)SAKIMICHAN.DEVIANTART.COM”与“ART(C)SAKIMICHAN.TUMBLR.COM”置于画面上下边缘。  
+```    
+
+```json    
+    动漫风格女性角色，橙红色长发飘逸，棕色眼眸，面带自信微笑。身穿蓝白条纹比基尼上衣，搭配破洞牛仔短裤，腰间系有金属环扣皮带。右手持蓝色圆筒状武器（类似炮管或望远镜），左手轻抚后脑勺，身体前倾呈动态战斗姿势。背景为深色烟雾与飞散金币，带有光影粒子特效，营造动感与戏剧氛围。画面右下角有“ART©SAKIMICHAN.DEVIANTART.COM”水印。整体画风精致细腻，色彩鲜艳，高光与阴影对比强烈，具有插画大师Sakimichan标志性风格。
+```
+
+```json
+动漫风格女性角色全身特写，粉色渐变长发扎成高马尾，蓝眼睛，佩戴黑色带红色X标志的耳机麦克风。身穿紫色铆钉装饰比基尼上衣与短裤，金色尖刺铆钉点缀，腰间系宽皮带配大型金色兽首扣环。双臂举过头顶，手肘弯曲，姿态性感自信。背景为青蓝色底色+斜向彩虹条纹（粉、黄、蓝、紫），光影柔和带高光渲染，画风细腻带数字绘画笔触感，右下角有“SakiniChun”手写签名水印。整体色彩鲜艳，充满活力与潮流感，突出角色曲线与服饰细节。",
+```
+
+```json
+A highly detailed, dynamic digital painting of a fierce female warrior in an intense combat pose, holding a katana overhead with both hands, her long dark hair flowing dramatically in the wind. She wears a torn silver-gray tank top revealing toned abs and muscular arms wrapped in white bandages. Her expression is determined and slightly exhausted, with sweat glistening on her skin and dirt smudges across her face. She’s crouched on a dark rock amidst a chaotic battlefield background — glowing embers, blurred trees, and flickering fire at her feet. The lighting is dramatic, with strong backlighting creating rim highlights and volumetric sunbeams piercing through smoke. Art style: hyper-realistic anime-inspired fantasy, rich textures, painterly brushwork, high contrast, cinematic composition. Color palette: warm oranges and yellows from fire, cool greys and blacks on clothing, natural skin tones with wet sheen. Signature watermark “ART(C)SAKIMICHAN.DEVIANTART.COM” faintly visible in corners.
     
     negative prompt:  
     low quality, blurry, cartoonish, flat shading, overly saturated, unrealistic anatomy, extra limbs, deformed face, text overlay, watermark obstructing subject, dull lighting, simple background, anime eyes, chibi, low resolution, noisy, overexposed
     
-    --ar 3:4 --v 6 --stylize 750",
-    "timestamp": "2026-01-13T09:20:13.915Z",
-    "imageType": "upload",
-    "imageUrl": null,
-    "imagePath": null,
-    "prompt": "描述这幅图,生成prompt以使用Z-image完美复现,直接生成prompt给我。"
-  },
-  {
-    "id": "1768289022688",
-    "title": "图像描述 - 2026/1/13 15:23:42",
-    "result": "一位年轻亚洲女性，留着乌黑齐刘海及肩发，一侧头发优雅盘起并垂下几缕卷发，佩戴小巧珍珠耳钉。她身穿一件米白色抹胸礼服，胸前有精致刺绣与水晶装饰，外搭轻薄同色系披肩，披肩在胸前打结并自然垂落。她坐在浅灰色皮质沙发中，背景是带有肌理感的米白色墙面，光线柔和明亮，整体氛围温柔、高雅、静谧。镜头为中近景，人物直视镜头，表情平静略带微笑，画面构图平衡，色调温暖柔和。",
-    "timestamp": "2026-01-13T07:23:42.709Z",
-    "imageType": "upload",
-    "imageUrl": null,
-    "imagePath": null,
-    "prompt": "描述这幅图,生成prompt以使用Z-image完美复现,直接生成prompt给我。"
-  }
-]
+    --ar 3:4 --v 6 --stylize 750
+```
+
+```json
+一位年轻亚洲女性，留着乌黑齐刘海及肩发，一侧头发优雅盘起并垂下几缕卷发，佩戴小巧珍珠耳钉。她身穿一件米白色抹胸礼服，胸前有精致刺绣与水晶装饰，外搭轻薄同色系披肩，披肩在胸前打结并自然垂落。她坐在浅灰色皮质沙发中，背景是带有肌理感的米白色墙面，光线柔和明亮，整体氛围温柔、高雅、静谧。镜头为中近景，人物直视镜头，表情平静略带微笑，画面构图平衡，色调温暖柔和。
+```
