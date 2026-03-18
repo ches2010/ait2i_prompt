@@ -4,7 +4,6 @@ ai绘图prompt
 ```json
 {
   "image_metadata": {
-    "format": "JPEG",
     "orientation": "portrait",
     "dominant_colors": ["beige", "pink", "white", "brown"]
   },
@@ -32,13 +31,6 @@ ai绘图prompt
 
 ```json
 {
-  "image_data": {
-    "id": "img_20230815_001",
-    "format": "jpeg",
-    "dimensions": {
-      "width": 1080,
-      "height": 1620
-    },
     "description": "A young woman posing outdoors in a park setting during golden hour. She is leaning back against a large tree trunk with her eyes closed, enjoying the sunlight. She holds a pair of sunglasses up in the air with her right hand. She is wearing a yellow camisole top, white pleated shorts, white socks, and pink sneakers.",
     "scene_elements": [
       "Park",
@@ -97,7 +89,7 @@ ai绘图prompt
 ```json
 {
   "image_data": {
-    "subject": "Young woman (appearing to be Yang Chaoyue)",
+    "subject": "Young woman",
     "clothing": {
       "top_outer": "Black blazer jacket",
       "top_inner": "Black lace corset/bustier",
@@ -173,16 +165,6 @@ ai绘图prompt
       "Metal shelving unit"
     ]
   },
-  "other_people": [
-    {
-      "description": "Man holding a camera on a tripod",
-      "position": "Background right"
-    },
-    {
-      "description": "Man standing with arms crossed",
-      "position": "Background far right"
-    }
-  ],
   "objects": [
     {
       "name": "Stuffed animal",
@@ -201,7 +183,7 @@ ai绘图prompt
 ```json
 {
   "image_analysis": {
-    "subject": "一位年轻女性（疑似中国女演员徐璐）",
+    "subject": "一位年轻女性",
     "attire": {
       "dress": "白色抹胸短裙，材质带有光泽感（类似缎面或丝绸），肩部设计有轻盈的薄纱飘带。",
       "shoes": "白色细高跟凉鞋，露趾款式。",
@@ -247,7 +229,7 @@ ai绘图prompt
       ]
     }
   },
-  "style": "写实风格数字绘画 (Digital Art) 或 高精细度3D渲染，具有典型的现代网络插画审美。",
+  "style": "写实风格真人写真，具有典型的现代摄影审美。",
 }
 ```
 
@@ -339,7 +321,6 @@ ai绘图prompt
 
 ```json
 {
-  "image_url": "https://p1.zsdimg.com/aicrop/300_400/pic-3786579982709.jpg~tplv-yh8z4y2kx4-image.image",
   "description": "A young woman posing indoors, likely in a cafe or restaurant.",
   "attributes": {
     "person": {
@@ -407,7 +388,6 @@ ai绘图prompt
     "subject": "Young Woman",
     "setting": "Outdoor / Garden Path",
     "lighting": "Bright Sunlight",
-    "watermark": "知乎 @高校校园星探"
   },
   "visual_elements": {
     "person": {
@@ -442,7 +422,6 @@ ai绘图prompt
 
 ```json
 {
-  "image_url": "https://p1.zhimg.com/50/v2-b8c7d3f0b9e5a1c7d4e6f8a9b0c1d2e3_720w.jpg?source=1940ef5c",
   "description": "A young woman sitting in a cafe, wearing a white dress and light cardigan.",
   "details": {
     "subject": {
@@ -529,9 +508,6 @@ ai绘图prompt
       "lighting": "warm, studio lighting highlighting the subject's face and the texture of the clothing",
       "mood": "glamorous, western-chic, stylish"
     },
-    "metadata": {
-      "estimated_identity": "Likely Chinese actress/model Zhang Yuxi (张予曦) based on facial features and style"
-    }
   }
 }
 ```
@@ -596,7 +572,7 @@ ai绘图prompt
 ```json
 {
   "image_analysis": {
-    "subject": "Young Asian woman (likely celebrity Zhang Ruonan)",
+    "subject": "Young Asian woman",
     "attire": {
       "top": "White ribbed V-neck cardigan with buttons",
       "bottom": "Black pants or skirt (partially visible)"
@@ -613,7 +589,7 @@ ai绘图prompt
 ```json
 {
   "image_description": {
-    "subject": "A young woman, likely the Chinese actress Zhao Lusi",
+    "subject": "A young woman",
     "pose": "Close-up portrait, looking directly at the camera with a soft expression. Her left hand is raised gently touching her neck/collarbone area.",
     "appearance": {
       "hair": "Dark brown hair pulled back into a low ponytail, with some loose strands framing the face.",
@@ -788,7 +764,7 @@ ai绘图prompt
 ```json
 {
   "image_content": {
-    "subject": "一位长发女性（外观特征类似演员刘亦菲）",
+    "subject": "一位长发女性",
     "appearance": {
       "hair": "黑色长直发，自然披散",
       "face": "妆容精致，神情冷艳",
@@ -815,7 +791,7 @@ ai绘图prompt
 ```json
 {
   "image_content": {
-    "subject": "女性 (看起来像是刘亦菲)",
+    "subject": "女性",
     "attire": {
       "upper_body": "白色宽松长袖衬衫",
       "lower_body": "浅蓝色高腰阔腿牛仔裤",
@@ -935,7 +911,7 @@ ai绘图prompt
 ```json
 {
   "image_info": {
-    "subject": "Female celebrity (resembling Liu Yifei)",
+    "subject": "Female celebrity",
     "pose": "Front-facing, looking directly at the camera",
     "attire": {
       "outerwear": "Dark blue denim jacket with an open zipper, featuring decorative ruffles or fringes along the placket",
@@ -1069,7 +1045,7 @@ ai绘图prompt
 
 ```json
 {
-   "image_description ":  "这是一张时尚广告照片，主要展示了一位身穿白色吊带连衣裙的女性模特。 ",
+   "image_description ":  "一张时尚广告照片，主要展示了一位身穿白色吊带连衣裙的女性模特。 ",
    "subject ": {
      "role ":  "内衣全球品牌代言人 ",
      "appearance ":  "深色长发编成侧边麻花辫，妆容精致，神情温柔自信。 ",
@@ -1255,7 +1231,6 @@ ai绘图prompt
 
 ```json
 {
-   "image_url ":  "https://img.zhihu.com/pic/8f0b4a7d9e0f8c8d7b6a5e4f3c2b1a0d.jpg?imageView2/1/w/800/h/1000/format/webp/q/75 ",
    "description ":  "This image features a young woman with long, platinum blonde hair styled with bangs. She is wearing an elaborate outfit consisting of a sparkly, strapless corset-style top and a voluminous black tulle skirt adorned with large, sequined floral appliqués around the waist. Her accessories include a black choker, a long layered metal necklace with a pendant, gold earrings, and rings. The background is dark and out of focus, suggesting a stage or runway setting. There is a watermark in the bottom right corner that reads '知乎 @明星聊一聊'. "
 }
 ```
@@ -1308,7 +1283,6 @@ ai绘图prompt
 
 ```json
 {
-   "image_url ":  "https://i.imgur.com/example_image_id.jpg ", 
    "description ":  "A split-screen fashion photograph featuring a woman in two different poses and outfits. ",
    "panels ": [
     {
@@ -1409,7 +1383,6 @@ ai绘图prompt
 ```json
 {
    "image_metadata ": {
-     "format ":  "JPEG ",
      "orientation ":  "Portrait ",
      "style ":  "Photorealistic, Portrait Photography "
   },
@@ -1950,145 +1923,139 @@ ai绘图prompt
 }
 ```
 
-```json
-{
-   "一张高画质的人像摄影，一位年轻的亚洲女性，拥有白皙的皮肤和精致的五官。她留着黑色的长发，编成一条松散的侧边麻花辫，垂落在左肩前。她身穿一件优雅的米白色露肩礼服，礼服上半部分有精美的蕾丝和珠绣装饰，显得非常华丽。她佩戴着夸张的银色水滴形耳环和戒指。她的姿态优雅，身体微微侧转，目光望向右侧，神情略带清冷和沉思。她的手指轻轻搭在辫子上。背景较暗，右侧有一个模糊的白色柱状结构，营造出一种室内高级晚宴或杂志拍摄的氛围。光线柔和，带有一点复古胶片的颗粒感和电影质感。 ",
-}
+```markdown
+一张高画质的人像摄影，一位年轻的亚洲女性，拥有白皙的皮肤和精致的五官。她留着黑色的长发，编成一条松散的侧边麻花辫，垂落在左肩前。她身穿一件优雅的米白色露肩礼服，礼服上半部分有精美的蕾丝和珠绣装饰，显得非常华丽。她佩戴着夸张的银色水滴形耳环和戒指。她的姿态优雅，身体微微侧转，目光望向右侧，神情略带清冷和沉思。她的手指轻轻搭在辫子上。背景较暗，右侧有一个模糊的白色柱状结构，营造出一种室内高级晚宴或杂志拍摄的氛围。光线柔和，带有一点复古胶片的颗粒感和电影质感。 
 ```
 
-```json
-{
-    "A high-quality portrait photography of a young Asian woman with fair skin and delicate features. She has long black hair styled in a loose side braid that drapes over her left shoulder. She is wearing an elegant off-the-shoulder beige gown, featuring exquisite lace and beadwork embroidery on the bodice, looking very luxurious. She wears statement silver teardrop earrings and rings. Her pose is graceful, body turned slightly, gazing to the right with a cool and contemplative expression. Her fingers are gently touching her braid. The background is dark, with a blurred white column-like structure on the right, creating an atmosphere of an upscale indoor event or magazine shoot. The lighting is soft, with a touch of vintage film grain and a cinematic texture. "
-}
+```markdown
+A high-quality portrait photography of a young Asian woman with fair skin and delicate features. She has long black hair styled in a loose side braid that drapes over her left shoulder. She is wearing an elegant off-the-shoulder beige gown, featuring exquisite lace and beadwork embroidery on the bodice, looking very luxurious. She wears statement silver teardrop earrings and rings. Her pose is graceful, body turned slightly, gazing to the right with a cool and contemplative expression. Her fingers are gently touching her braid. The background is dark, with a blurred white column-like structure on the right, creating an atmosphere of an upscale indoor event or magazine shoot. The lighting is soft, with a touch of vintage film grain and a cinematic texture. 
 ```
 
 
 
 
-```json
-  {
-    "一位年轻亚洲女性坐在汽车后座，面带微笑看向镜头，右手举起轻轻挥手致意，左手拿着手机。她留着深色长发，身穿浅棕色无袖上衣，手腕佩戴白色智能手表。车座为深灰色皮质，带有红色缝线装饰，头枕处有黑色颈枕。车窗外可见模糊的绿色植被和护栏，光线明亮柔和，整体氛围轻松自然、生活化。拍摄角度为车内近景，构图聚焦人物表情与动作，背景虚化突出主体。",
-    }
+```markdown
+一位年轻亚洲女性坐在汽车后座，面带微笑看向镜头，右手举起轻轻挥手致意，左手拿着手机。她留着深色长发，身穿浅棕色无袖上衣，手腕佩戴白色智能手表。车座为深灰色皮质，带有红色缝线装饰，头枕处有黑色颈枕。车窗外可见模糊的绿色植被和护栏，光线明亮柔和，整体氛围轻松自然、生活化。拍摄角度为车内近景，构图聚焦人物表情与动作，背景虚化突出主体。
 ```
 
-```json
+```markdown
   {"一位年轻亚洲女性在夜晚户外微笑，她留着柔顺的深棕色长发，身穿一件带有灰绿色植物印花的半透明雪纺衬衫，搭配黑色下装。背景是虚化的夜景，有被灯光照亮的绿树和模糊的街灯，营造出温暖柔和的氛围。她坐在一张深色金属框架的户外椅子上，身体微微侧转，目光温柔直视镜头，笑容自然甜美。画面采用浅景深，突出人物主体，光线来自左上方，柔和地打在她的脸上，整体色调偏暖，充满宁静与生活气息。
 }
 ```
 
-```json
+```markdown
 A young Asian woman smiling warmly at night outdoors, long smooth dark brown hair, wearing a semi-transparent chiffon blouse with gray-green botanical print and black bottom. She is seated on a dark metal-framed outdoor chair, body slightly turned, gazing gently into the camera with a natural, sweet smile. Background features softly blurred night scenery with illuminated green trees and distant streetlights, creating a cozy and gentle ambiance. Shallow depth of field emphasizes the subject, soft lighting from upper left illuminates her face, warm color tone overall, serene and full of everyday life charm.
 ```
 
-```json
+```markdown
 一位年轻亚洲女性坐在室内柜台旁，身穿米白色长款风衣，内搭深蓝色连衣裙与领结，留着齐肩棕色直发，面带温柔微笑注视镜头。她身旁放置一个透明亚克力礼盒，内装粉色玫瑰花制成的独角兽造型花艺，独角兽头戴银色角与白色鬃毛，礼盒系有印“BEST WISHES FOR YOU”字样的粉色丝带。背景为浅灰色纹理墙面，右侧可见电源插座，地面为灰白斑点水磨石台面。整体光线柔和，氛围温馨浪漫，构图偏右侧人物主体，左侧留出花艺展示空间，风格写实自然，适合用于社交媒体或礼物场景。
 ```
 
-```json
+```markdown
  A young Asian woman sitting on a speckled white-and-gray countertop indoors, wearing a long off-white trench coat over a navy blue dress with a matching bow tie. She has shoulder-length straight brown hair and is smiling gently at the camera. Next to her is a transparent acrylic gift box containing a pink rose unicorn sculpture — the unicorn has a silver horn, fluffy white mane, and is wrapped with a pink ribbon that reads “BEST WISHES FOR YOU.” The background features a light gray textured wall with a visible power outlet on the right. Soft ambient lighting creates a warm, romantic atmosphere. Realistic photography style, composition focused on the woman slightly right of center, leaving space for the unicorn gift on the left. Ideal for social media or gifting context.
 ```
 
-```json
+```markdown
 一位年轻亚洲女性，留着齐刘海及肩黑发，部分头发在脑后挽成优雅低发髻，几缕卷发垂落颈侧。她身穿一件米白色单肩礼服，肩部有轻盈飘逸的薄纱披肩，胸前饰有精致金属花朵胸针，礼服上隐约可见刺绣花纹。她坐在一张浅灰色皮质沙发中，背景是带有纹理的米白色墙面，光线柔和自然，营造出温馨高雅的氛围。人物表情温柔平静，直视镜头，妆容淡雅，佩戴小巧珍珠耳钉。整体构图为中近景人像，突出人物气质与服装细节，风格写实、清新、略带复古感。
 ```
 
-```json   
+```markdown   
 A young Asian woman with straight black shoulder-length hair and bangs, one side elegantly pinned back into a low bun with soft curls framing her neck. She wears an off-shoulder cream-colored gown with a flowing sheer drape over one arm, adorned with a delicate metallic floral brooch at the bust and subtle embroidered patterns on the bodice. Seated on a light gray leather sofa against a textured off-white wall, she gazes softly at the camera with gentle expression, wearing minimal makeup and small pearl stud earrings. Soft natural lighting enhances the serene, elegant, slightly vintage atmosphere. Medium close-up portrait, photorealistic, high detail, clean composition, warm and sophisticated mood.
 ```
 
-```json
+```markdown
 一位年轻女性的特写自拍，她戴着黑色细框圆形眼镜，黑色中长发自然垂落，身穿黑色V领上衣，微微仰头看向镜头，嘴唇微张，表情自然放松。背景为深色软垫或沙发，光线柔和偏暖，突出面部轮廓与皮肤质感，整体氛围安静、日常、有生活感。高清晰度，细节丰富，真实摄影风格。
 ```
 
-```json
+```markdown
 一位年轻优雅的亚洲女性走在城市商业街的人行道上，身穿修身黑色吊带鱼尾长裙，肩带纤细，领口方正，裙摆随步伐轻扬。她留着自然微卷的深棕色中长发，面带温柔微笑直视镜头，颈间佩戴一条精致细链项链。右手提着一只米白色几何造型手提包，脚穿裸色高跟鞋（部分可见）。背景是现代都市街景：左侧有黑色花箱种植橙红色花卉，后方是玻璃幕墙建筑，墙上挂有男性时尚广告海报；右侧远处可见一名穿白衬衫黑裤的保安站立在商场入口。阳光从左上方斜照，地面铺有灰色地砖，光影分明，整体氛围时尚、清新、高级感十足，构图采用中景人像，焦点清晰，背景虚化，呈现电影感胶片色调。
 ```
 
-```json
+```markdown
 一位年轻女性跪坐在床上，身穿一件浅粉色高开叉挂脖连衣裙，搭配白色过膝长袜。她留着金色齐刘海与深色马尾辫，妆容精致，眼神直视镜头。左手轻抚身后一幅梦幻风景挂画——画中是粉紫色云朵、新月和远山。背景左侧可见蓝色小柜子和卡通图案布帘。整体光线柔和，色调温馨浪漫，营造出甜美又略带性感的卧室氛围。画面构图居中，人物姿态优雅舒展，细节清晰，质感细腻。
 ```
 
-```json
+```markdown
 一位年轻女性坐在木地板上，双腿张开，身穿白色短袖水手服衬衫，领口系着红色蝴蝶结，衬衫敞开露出白色内衣，下身穿着蓝红格纹百褶短裙，搭配白色过膝长袜。她低头看向地面，面部被模糊处理。背景是明亮的窗户，阳光透过薄纱窗帘洒入室内，在地板上形成柔和光斑与条纹阴影。画面整体色调偏暖，带有柔焦与轻微过曝效果，营造出朦胧、静谧的日系氛围。右下角可见部分黄色布料物体。画面中央有半透明水印文字“bunnylin-love.tumblr.com”。镜头采用低角度平视拍摄，构图居中，强调光影与人物姿态。
 ```
 
-```json
+```markdown
 A young woman sitting on a polished wooden floor with legs spread apart, wearing a white short-sleeved sailor-style shirt with an open front revealing a white bralette, tied with a red ribbon bow at the collar, paired with a pleated plaid skirt in blue and red tones, and white knee-high socks. She is looking down with her face blurred. Behind her, bright sunlight streams through sheer white curtains from a large window, casting soft highlights and striped shadows across the floor. The scene has a warm, hazy, overexposed aesthetic with soft focus, evoking a quiet, dreamy Japanese-style atmosphere. A yellow fabric object is partially visible in the lower right corner. Centered composition, low-angle eye-level shot. Semi-transparent watermark text “bunnylin-love.tumblr.com” centered on image. Style: photorealistic, soft lighting, cinematic mood, gentle color grading.
 ```
  
-```json
+```markdown
 一位年轻女性，闭着眼睛，表情放松，穿着粉色透明女仆装，领口有白色蝴蝶结装饰，搭配白色蕾丝边吊带袜。她留着黑色长发，扎成双马尾，头戴白色蕾丝发饰。坐在柔软的白色毛绒地毯上，背景是室内环境，光线柔和明亮，整体氛围甜美、梦幻、性感。风格为高清写实日系少女风，细节精致，皮肤光滑，光影自然。
 ```
 
-```json
+```markdown
 一位拥有银白色长发和蓝色大眼睛的年轻女性，正坐在柔软的白色地毯上。她穿着一件白色短袖连体衣，衣上有青绿色图案和粉色花朵装饰，袖口与裤脚边缘有青绿色条纹。她的头发两侧各别着一个粉色蝴蝶结发饰，双手轻轻拉开胸前的衣襟，露出部分肌肤，表情略带羞涩地直视镜头。背景为浅米色墙面，右侧可见藤编家具一角，左侧有镜子反光，整体光线柔和明亮，营造出温馨可爱的室内氛围。风格为高精度写实cosplay摄影，细节清晰，色彩柔和，适合用于Z-image生成。
 ```
 
-```json
+```markdown
 一位年轻女性跪坐在白色床上，身穿白色蕾丝边女仆装，搭配黑色丝袜和同款蕾丝吊袜带。她留着深棕色双马尾长发，齐刘海，妆容精致，红唇微启，眼神直视镜头，表情温柔略带羞涩。背景为明亮简约的室内空间，白色墙壁、拱形门洞、远处可见摄影灯架与置物柜，床边放有米色抱枕。整体光线柔和自然，色调清新干净，画面聚焦人物，构图居中，氛围甜美私密。
 ```    
 
-```json 
+```markdown
 a young beautiful woman kneeling on a white bed, wearing a white frilly maid outfit with black trim, black thigh-high stockings with lace garters, long dark brown hair in twin ponytails with bangs, soft makeup and red lips, looking directly at the camera with gentle shy expression, bright minimalist room background with white walls, arched doorway, photography light stand and storage cabinet visible in distance, beige pillow beside her, soft natural lighting, clean pastel tones, centered composition, sweet and intimate atmosphere, high detail, realistic skin texture, 8K ultra HD
 ```
 
-```json
+```markdown
 一位年轻女性坐在铺着白色床单的床上，她有着一半白一半黑的长直发，头顶戴着一对黑色毛绒熊猫耳朵发饰。她身穿一件半透明的白色旗袍式连体衣，领口和侧边有黑色镶边，胸前是黑色系带设计，内搭黑色心形金属环装饰的胸衣。她穿着黑色过膝丝袜，双腿微张跪坐，双手自然放在膝盖附近，面带微笑直视镜头。背景是明亮的现代卧室，左侧墙上挂着投影幕布，远处可见白色吧台椅和拱形门廊，床边散落着零食包装和一个米色抱枕。整体光线柔和自然，色调干净清新，营造出甜美又略带性感的氛围。
 ```    
    
-```json
+```markdown
 A young woman with half-white, half-black long straight hair and black fluffy panda ear headband, sitting on a white bed in a bright modern bedroom. She wears a semi-transparent white cheongsam-style bodysuit with black trim and lace-up front, revealing a black bra with heart-shaped metal ring detail. She’s wearing black thigh-high stockings, kneeling with legs slightly apart, hands resting gently on her knees, smiling softly at the camera. Background includes a projector screen on the left wall, white bar stools and arched doorway in the distance, scattered snacks and a beige pillow beside her. Soft natural lighting, clean aesthetic, sweet yet subtly sensual vibe. High detail, photorealistic, 8K resolution, full-body portrait, centered composition.
 ```
 
-```json
+```markdown
 一位年轻女性坐在床上，身穿白色针织羊角主题服装，头戴带有米色螺旋羊角的白色毛绒发箍，黑色长发扎成双马尾，穿着白色高领镂空针织上衣（胸前有系带设计），搭配白色透明丝袜和白色针织蝴蝶结装饰的过膝袜套。她双腿交叠，手轻抚衣襟，眼神直视镜头，表情温柔略带羞涩。背景是温馨卧室，左侧有木质置物架，右侧是浅棕色窗帘，床铺上有几何图案被子和一个白色卡通抱枕。整体画面柔和明亮，色调以白色与米色为主，营造出可爱、温暖、甜美的氛围。
 ```
 
-```json
+```markdown
 一位年轻女性斜躺在柔软的床上，穿着白色高领镂空针织毛衣，搭配白色丝袜和蓝色绒面拖鞋。她头戴可爱的羊角发箍，黑色长发扎成双马尾，面带温柔微笑直视镜头。背景是浅色床品与几何图案抱枕，整体氛围温馨、甜美、居家。光线柔和明亮，色调以白色、浅粉和淡蓝为主，画面充满少女感与舒适感。
 ```    
 
-```json
+```markdown
 A young woman lying diagonally on a soft bed, wearing a white high-neck knitted sweater with cut-out details and white thigh-high stockings, paired with light blue fluffy slippers. She has long black hair in twin tails, wearing an adorable sheep-horn headband, smiling gently at the camera. Background includes pastel-colored bedding and geometric patterned pillows. Soft natural lighting, cozy and sweet aesthetic, warm and inviting atmosphere, ultra-detailed skin texture, realistic fabric folds, shallow depth of field, 8K resolution, studio portrait style.
 ```
 
-```json
+```markdown
 一位年轻亚洲女性，留着乌黑柔顺的长发与齐刘海，正温柔微笑看向镜头。她身穿一件白色底、带有浅粉与淡蓝细条纹的吊带背心，领口饰有蕾丝边和一枚粉色小蝴蝶结，下身搭配白色短裤，腿上随意搭着一条浅蓝色破洞牛仔短裤。她坐在室内床上，背景可见绿色棕榈叶图案的窗帘、灰白几何纹靠垫、墙上挂着透明塑料袋装的彩色画笔，以及右侧花卉装饰画框。整体光线柔和明亮，氛围清新自然，构图聚焦人物半身，展现居家休闲感。
 ```    
 
-```json  
+```markdown
 A young Asian woman with long, silky black hair and bangs, gently smiling at the camera. She wears a white spaghetti strap top with delicate pink and light blue horizontal stripes, featuring lace trim and a small pink bow at the neckline. Paired with white shorts, she has a light blue ripped denim short draped over her lap. Sitting on a bed in a cozy indoor setting, background includes a green palm leaf patterned curtain, gray-and-white chevron cushion, wall-mounted clear plastic bag holding colorful paintbrushes, and a floral-framed artwork to the right. Soft natural lighting, warm and inviting atmosphere, medium close-up shot focusing on upper body, capturing casual home aesthetic. Realistic style, high detail, 8K resolution, sharp focus on facial expression and fabric texture.
 ```
 
-```json
+```markdown
 一位年轻亚洲女性在卧室中自拍，她有着柔顺的黑色长发和齐刘海，面带温柔微笑，眼神清澈。她身穿一件浅色条纹吊带睡衣，领口饰有白色蕾丝花边和一个粉色小蝴蝶结，下摆为荷叶边设计。背景是温馨的卧室环境，可见床铺、条纹床单、粉色抱枕及一盏绿色底座的台灯，光线柔和自然。画面构图近景特写，突出人物面部与上半身，整体氛围甜美、清新、居家。
 ```    
 
-```json
+```markdown
 一位20岁左右的亚洲女性，黑长直发带齐刘海，温柔微笑，大眼睛，皮肤白皙细腻，穿着浅粉蓝白条纹蕾丝边吊带睡衣，领口有粉色小蝴蝶结，下摆荷叶边，坐在床上自拍视角，背景是温馨卧室，有条纹床单、粉色花朵抱枕、绿色复古台灯，自然光从侧面照入，画面清晰柔和，甜美清新风格，高细节，8K画质。
 ```
 
-```json
+```markdown
 一位银白色短发、紫唇的性感女性战士，身着华丽的紫色与金色相间的战斗装束，上身为紧身蕾丝胸甲配金属护肩，下身是高开衩蕾丝长裙与绑带式大腿护具，搭配黑色网袜与金属装饰。她双臂交叉于胸前，眼神冷艳自信，背景为阳光明媚的欧洲古典建筑广场（类似威尼斯圣马可钟楼），蓝天白云映衬，画面中漂浮着多个刻有神秘符文的金属立方体，整体风格为超写实动漫风，光影强烈，细节精致，充满戏剧张力与奇幻氛围。艺术家签名“Sakimichan”位于右下角。
 ```
 
-```json      
+```markdown   
 A highly detailed, vibrant anime-style illustration of a young woman in a beach volleyball setting. She wears a blue and gold bikini top with crescent moon patterns, paired with a sheer blue sarong tied at her hip. Her skin is glistening with sweat and water droplets, emphasizing a sun-kissed, athletic physique. She holds a white-and-blue volleyball under her left arm, featuring Korean text  "스파이크 " (Spike) on its surface. Her right hand rests on her hip, adorned with a black spiked wristband. Her dark brown hair is tied back with a white ribbon, and she wears red spherical earrings. Behind her, a tropical beach scene unfolds: palm fronds frame the upper left corner, while turquoise ocean waves and a bright blue sky with soft clouds stretch into the background. The lighting is warm and natural, casting soft highlights and shadows to enhance realism and depth. Art style blends dynamic anime proportions with painterly realism, reminiscent of Sakimichan’s signature aesthetic — smooth skin textures, expressive eyes, and fluid fabric movement. Include subtle artist watermark: “ART©SAKIMICHAN.DEVIANTART.COM” and “ART©SAKIMICHAN.TUMBLR.COM” faintly visible in corners. --ar 3:4 --v 6 --q 2 --style raw
 ```
 
-```json
+```markdown
 动漫风格女性角色全身特写，高饱和度光影渲染，柔焦背景中飘散花瓣与朦胧绿植。角色黑长直发随风扬起，头顶架着橙色镜片太阳镜，蓝色眼眸凝视镜头，嘴角微扬带自信神情。身着深蓝露肩短上衣，胸前有白色蝴蝶结装饰与拉链细节，下搭粉色系带腰裙，裙侧饰绿色底白花图案。双手优雅抬起，指尖轻触发丝，姿态动感流畅。整体画面采用霓虹紫粉光晕勾边，皮肤透亮细腻，强调曲线与布料褶皱质感，营造梦幻性感氛围。艺术家签名水印“ART(C)SAKIMICHAN.DEVIANTART.COM”与“ART(C)SAKIMICHAN.TUMBLR.COM”置于画面上下边缘。  
 ```    
 
-```json    
+```markdown   
     动漫风格女性角色，橙红色长发飘逸，棕色眼眸，面带自信微笑。身穿蓝白条纹比基尼上衣，搭配破洞牛仔短裤，腰间系有金属环扣皮带。右手持蓝色圆筒状武器（类似炮管或望远镜），左手轻抚后脑勺，身体前倾呈动态战斗姿势。背景为深色烟雾与飞散金币，带有光影粒子特效，营造动感与戏剧氛围。画面右下角有“ART©SAKIMICHAN.DEVIANTART.COM”水印。整体画风精致细腻，色彩鲜艳，高光与阴影对比强烈，具有插画大师Sakimichan标志性风格。
 ```
 
-```json
+```markdown
 动漫风格女性角色全身特写，粉色渐变长发扎成高马尾，蓝眼睛，佩戴黑色带红色X标志的耳机麦克风。身穿紫色铆钉装饰比基尼上衣与短裤，金色尖刺铆钉点缀，腰间系宽皮带配大型金色兽首扣环。双臂举过头顶，手肘弯曲，姿态性感自信。背景为青蓝色底色+斜向彩虹条纹（粉、黄、蓝、紫），光影柔和带高光渲染，画风细腻带数字绘画笔触感，右下角有“SakiniChun”手写签名水印。整体色彩鲜艳，充满活力与潮流感，突出角色曲线与服饰细节。",
 ```
 
-```json
+```markdown
 A highly detailed, dynamic digital painting of a fierce female warrior in an intense combat pose, holding a katana overhead with both hands, her long dark hair flowing dramatically in the wind. She wears a torn silver-gray tank top revealing toned abs and muscular arms wrapped in white bandages. Her expression is determined and slightly exhausted, with sweat glistening on her skin and dirt smudges across her face. She’s crouched on a dark rock amidst a chaotic battlefield background — glowing embers, blurred trees, and flickering fire at her feet. The lighting is dramatic, with strong backlighting creating rim highlights and volumetric sunbeams piercing through smoke. Art style: hyper-realistic anime-inspired fantasy, rich textures, painterly brushwork, high contrast, cinematic composition. Color palette: warm oranges and yellows from fire, cool greys and blacks on clothing, natural skin tones with wet sheen. Signature watermark “ART(C)SAKIMICHAN.DEVIANTART.COM” faintly visible in corners.
     
     negative prompt:  
@@ -2097,26 +2064,24 @@ A highly detailed, dynamic digital painting of a fierce female warrior in an int
     --ar 3:4 --v 6 --stylize 750
 ```
 
-```json
+```markdown
 一位年轻亚洲女性，留着乌黑齐刘海及肩发，一侧头发优雅盘起并垂下几缕卷发，佩戴小巧珍珠耳钉。她身穿一件米白色抹胸礼服，胸前有精致刺绣与水晶装饰，外搭轻薄同色系披肩，披肩在胸前打结并自然垂落。她坐在浅灰色皮质沙发中，背景是带有肌理感的米白色墙面，光线柔和明亮，整体氛围温柔、高雅、静谧。镜头为中近景，人物直视镜头，表情平静略带微笑，画面构图平衡，色调温暖柔和。
 ```
 
 
-```    一个背对镜头的年轻女性站在阳光明媚的公园小径中央，她留着及腰黑色长直发，身穿白色短袖衬衫和粉色格纹百褶短裙，双手在身后轻轻交握。她穿着带有熊猫头装饰的白色条纹过膝袜和黑色厚底鞋。小径由灰色石板铺成，两旁是茂密的绿树，树叶在阳光下透出明亮的翠绿色，地面上洒满斑驳树影。远处可见中式凉亭、路灯和紫红色灌木丛，天空湛蓝无云。整体画面清新自然，充满青春活力与日系校园风，光线柔和明亮，构图居中，视角略低，突出人物与环境的和谐感。
-    
-    —
-    
-    **可选增强指令（如需更高精度）：**
+```markdown
+一个背对镜头的年轻女性站在阳光明媚的公园小径中央，她留着及腰黑色长直发，身穿白色短袖衬衫和粉色格纹百褶短裙，双手在身后轻轻交握。她穿着带有熊猫头装饰的白色条纹过膝袜和黑色厚底鞋。小径由灰色石板铺成，两旁是茂密的绿树，树叶在阳光下透出明亮的翠绿色，地面上洒满斑驳树影。远处可见中式凉亭、路灯和紫红色灌木丛，天空湛蓝无云。整体画面清新自然，充满青春活力与日系校园风，光线柔和明亮，构图居中，视角略低，突出人物与环境的和谐感。
+
     
     - 画质要求：超高清细节，8K分辨率，真实摄影风格
     - 风格参考：日系少女写真 / 校园风 / 清新自然光摄影
     - 色彩氛围：高饱和度绿色 + 柔和暖阳色调，对比鲜明但不刺眼
     - 人物比例：修长腿部比例，符合亚洲少女审美
     - 环境细节：树影清晰投射在地面，树叶纹理可见，背景有轻微景深虚化
-    ```
+```
    
    
-```    
+```markdown
     一位年轻、身材匀称的亚洲女性在现代化健身房内使用拉力训练器械。她坐在黑色皮质靠背的健身椅上，身体微微后仰，双手紧握两侧把手，正在进行下拉或划船动作。她留着齐肩中长发，发色为深棕色带浅棕挑染，妆容自然清新，眼神专注略带慵懒地望向镜头右上方。
     
     她身穿一件粉嫩色系的细肩带运动内衣，边缘有白色包边，材质为透气针织面料；下身搭配深灰色高腰运动长裤，裤型修身显腿长，侧边有口袋细节。她的姿势充满力量感与柔美感，腹部线条清晰可见，展现出健康活力的体态。
@@ -2125,28 +2090,21 @@ A highly detailed, dynamic digital painting of a fierce female warrior in an int
     
     风格：写实、时尚、轻奢健身风，强调光影层次与人物神态表现，适合用于生活方式、运动品牌或社交媒体宣传图。
     
-    —
-    
-    **提示词关键词（可选附加）：**
-    
     `realistic, high detail, natural lighting, gym interior, fitness woman, sportswear, pink sports bra, gray leggings, cable machine, soft bokeh, Asian beauty, clean aesthetic, professional photography, shallow depth of field`
-    ```
+```
    
    
- ```   
+ ```markdown   
     一位年轻女性在室内镜子前拍摄自拍，采用竖构图、全身视角。她留着深色长发，自然垂落，左手高举过头，轻抚发丝；右手持一部浅灰色 iPhone（后置三摄镜头清晰可见），遮挡部分面部，仅露出下巴与嘴唇轮廓，营造神秘感。她身穿一件简约白色V领短袖上衣，面料轻薄贴身，下搭黑色运动短裤，裤边有白色细条纹装饰。腿上穿着过膝白色薄款丝袜，质感透亮。背景为纯色浅灰或米白墙面，光线柔和均匀，略带生活化氛围。画面右侧及下半部分有轻微动态模糊效果，模拟手持拍摄时的轻微晃动或快门拖影，增强真实感与动感。整体风格清新自然，带有一丝慵懒与私密感。
-    
-    —
-    
-    ✅ **适配 Qwen-VL 的优化点：**
+
     - 明确主体动作与姿态（举手、持机、遮脸）
     - 细节描述到位（手机型号、服装材质、丝袜长度、背景颜色）
     - 加入“动态模糊”、“生活化光线”等视觉特征词，提升真实还原度
     - 风格关键词引导情绪氛围（清新、慵懒、私密）
-    ```
+ ```
  
  
- ```   
+ ```markdown
   一张高分辨率、电影感十足的自拍风格照片，画面主体是两位年轻女性在电影节红毯上开心合影。
     
     - **人物细节**：
@@ -2167,23 +2125,20 @@ A highly detailed, dynamic digital painting of a fierce female warrior in an int
     
     - **情绪与氛围**：
       - 传达欢乐、庆祝、友谊与明星魅力，具有真实活动现场的即兴抓拍感，非摆拍，富有生命力。
-    ```
+ ```
  
  
-```    
+```markdown
     > 两位年轻女性在阳光明媚的海滩上开心自拍，镜头视角近似手机前置摄像头，画面充满温暖柔和的胶片感。左边女生留深棕色中长发，穿着鲜艳蓝色短袖T恤，右边女生是金色波浪长发，穿白色吊带背心配浅蓝色牛仔裤。两人并肩微笑，眼睛明亮有神，露出整齐洁白的牙齿，同时用双手比出“V”字胜利手势，手指自然舒展。背景是模糊的沙滩和海面，天空略带灰白但整体光线柔和均匀，营造出夏日午后慵懒又快乐的氛围。照片带有轻微颗粒感、暖色调色偏和边缘柔化效果，模仿35mm胶片相机拍摄风格，构图紧凑，聚焦人物面部表情与互动，传达友谊、自由与青春的美好。
-    
-    —
-    
-    **可选增强参数（如支持）：**
+
     
     - **风格关键词**：胶片摄影 / Kodak Portra 400 / 复古滤镜 / 柔焦效果 / 日系清新
     - **画质要求**：高细节 / 高分辨率 / 自然皮肤纹理 / 真实光影过渡
     - **情绪氛围**：欢快 / 友谊 / 温暖 / 轻松 / 怀旧
-    ```
+```
 
 
-```    
+```markdown
  一张高清晰度、自然光线下的海滩自拍特写照片，画面中两位年轻女性并肩站立，面向镜头，表情夸张有趣，形成鲜明对比。
     
     - **左侧女性：**
@@ -2207,27 +2162,27 @@ A highly detailed, dynamic digital painting of a fierce female warrior in an int
       - 自然真实的人像摄影风格，强调生活感、亲密感和幽默感。
       - 两位女性关系亲密，像是闺蜜或姐妹，正在享受度假时光。
       - 整体情绪轻松、俏皮、充满夏日活力。
-    ```
-
 ```
+
+```markdown
     一位年轻女性在卧室的全身镜前拍摄自拍。她身穿白色短袖水手领衬衫，搭配深蓝色大蝴蝶结领饰和黑色百褶短裙，呈现日系学生制服风格。她留着齐刘海、中长黑发，右手举着一部银色 iPhone（后置三摄可见），手机屏幕正对镜头，强光反射遮住她的面部，营造出朦胧神秘感。她身体微微前倾，左手自然垂放于大腿旁，姿态略带俏皮。
     
     背景是温馨的日式卧室：左侧是浅木色书架，摆放书籍、相框与悬挂绿植；右侧是一张铺有米白色床单的床，床边有一张木质小书桌，桌上亮着一盏白色弯颈台灯，旁边还有笔筒和文具。墙上贴着几张风景明信片或照片，墙面为暖米色调。整体光线柔和偏黄，氛围安静、私密、生活化，带有胶片感和轻微噪点质感。
     
     构图采用镜面反射视角，人物居中，镜框边缘清晰可见，突出“自拍”主题。请保持真实感、细腻光影与生活气息，避免过度美化或卡通化。
-    ```
+```
 
 
-```    
+```markdown
     一位年轻女性在卧室的全身镜前拍摄自拍。她身穿白色短袖水手领衬衫，搭配深蓝色大蝴蝶结领饰和黑色百褶短裙，呈现日系学生制服风格。她留着齐刘海、中长黑发，右手举着一部银色 iPhone（后置三摄可见），手机屏幕正对镜头，强光反射遮住她的面部，营造出朦胧神秘感。她身体微微前倾，左手自然垂放于大腿旁，姿态略带俏皮。
     
     背景是温馨的日式卧室：左侧是浅木色书架，摆放书籍、相框与悬挂绿植；右侧是一张铺有米白色床单的床，床边有一张木质小书桌，桌上亮着一盏白色弯颈台灯，旁边还有笔筒和文具。墙上贴着几张风景明信片或照片，墙面为暖米色调。整体光线柔和偏黄，氛围安静、私密、生活化，带有胶片感和轻微噪点质感。
     
     构图采用镜面反射视角，人物居中，镜框边缘清晰可见，突出“自拍”主题。请保持真实感、细腻光影与生活气息，避免过度美化或卡通化。
-    ```
+```
 
 
-```    
+```markdown
     这是一张左右拼接的双图照片。
     
     **左图：**
@@ -2242,9 +2197,9 @@ A highly detailed, dynamic digital painting of a fierce female warrior in an int
     - 椅子是橙色座垫+金属框架，椅背上印有蜡笔小新的图案或文字。
     - 多块彩色电子屏幕播放动画，天花板装有轨道射灯，整体色彩鲜艳、童趣十足。
     - 右下角有水印“知乎 @段老湿”。
-    ```
-
 ```
+
+```markdown
     > 一张左右拼接的双图画面。  
     >   
     > **左侧部分：**  
@@ -2261,7 +2216,7 @@ A highly detailed, dynamic digital painting of a fierce female warrior in an int
  ```
  
  
-```    
+```markdown    
     这是一张由三部分组成的拼贴式时尚穿搭展示图：
     
     - **左侧图：** 一位年轻女性在镜子前自拍。她身穿一件紧身黑色高领长袖连体衣，材质半透明带网纱拼接，凸显身材曲线。她的头发盘成高马尾，手持一台复古相机，背景是暖色调的室内墙壁和镜框。
@@ -2282,7 +2237,7 @@ A highly detailed, dynamic digital painting of a fierce female warrior in an int
 ```
 
 
-```
+```markdown
     > 请生成一张三联拼贴图，用于展示一位亚洲女性的时尚穿搭。左侧：她在镜前自拍，穿黑色高领紧身连体衣（局部半透明），盘发，手持复古相机，暖光室内背景；中间：平铺展示一套黑色系单品——无袖高领上衣、竖条纹阔腿裤、饰白边流苏的短外套、墨镜、项链、两款高跟鞋、黑色C字扣手提包；右侧：她完整穿着这套搭配，墨镜戴在头上，手持相机，斜挎包，站姿优雅，背景为纯米色墙面。整体风格现代、高级、简约，色调统一为黑色+金色点缀，光线柔和均匀，构图清晰专业。
     
     > **English Prompt:**
@@ -2290,14 +2245,11 @@ A highly detailed, dynamic digital painting of a fierce female warrior in an int
 ```    
 
 
-```    
+```markdown    
     一位年轻、身材匀称的亚洲女性坐在湖边垂钓。她戴着一顶简约的白色棒球帽，帽檐微微向前，帽子左侧有一个小黑标。她留着乌黑顺直的长发，自然垂在肩后。她身穿一件白色露肩吊带运动背心，搭配黑色长袖防晒袖套和紧身黑色瑜伽裤，露出纤细腰线。脚上穿着一双经典款白色高帮帆布鞋（类似Converse All Star），搭配白色中筒袜，袜口有黑色Nike勾形标志。
     
     她侧身坐在一个白色的塑料折叠箱上，双手握着一根黑色钓鱼竿，正专注地凝视水面，神情宁静而专注。背景是平静的湖面，倒映着岸边模糊的绿树，环境清新自然，光线柔和明亮，呈现出夏日午后户外休闲的氛围。整体画面构图以人物为中心，采用中景视角，突出人物姿态与环境融合的美感，风格写实、干净、时尚。
     
-    —
-    
-    **附加提示词（可选，用于强化细节或风格）：**
     
     - 高清摄影质感，自然光，柔焦背景
     - 服装细节清晰，材质真实（棉质背心、弹力瑜伽裤）
@@ -2307,16 +2259,13 @@ A highly detailed, dynamic digital painting of a fierce female warrior in an int
 ```    
 
 
-```    
+```markdown    
     一位年轻、清秀的亚洲女性，长发自然垂落，身穿米白色短款印花T恤（胸前有花卉图案和英文小字），搭配浅蓝色高腰紧身牛仔裤与白色厚底运动鞋。她站在一棵粗壮古树旁，抬头仰望树枝上悬挂的木质祈福牌（写有文字，系着红色流苏），神情宁静而略带憧憬。
     
     背景是中国传统寺庙庭院：青灰色瓦顶、飞檐翘角、朱红木门与石板地面清晰可见，阳光透过树叶洒下斑驳光影，整体氛围静谧、文艺、充满东方禅意。
     
     构图为中景全身照，人物居画面中央偏左，古树占据右侧，背景虚化突出主体。光线柔和明亮，色调温暖清新，具有高分辨率写实风格，细节丰富（如树皮纹理、衣物褶皱、地面石缝等）。
-    
-    —
-    
-    **附加提示词（可选，用于强化效果）：**
+
     
     - “8K超高清，电影感布光，自然光摄影”
     - “真实皮肤质感，柔焦背景，景深控制精准”
@@ -2324,38 +2273,26 @@ A highly detailed, dynamic digital painting of a fierce female warrior in an int
 ```    
 
 
-```
+```markdown
     一位年轻、清秀的东亚女性，长发飘逸，身穿米色短款印花T恤和浅蓝色高腰紧身牛仔裤，脚踩白色运动鞋，站在一棵挂满木质祈福牌（写有汉字、系着红色流苏）的古老大树下。她微微仰头，目光望向树冠方向，神情宁静而略带向往。
     
     背景是典型的中式庭院：青石铺地，远处可见传统飞檐翘角的古建筑，红柱灰瓦，绿树成荫。阳光明媚，光线从左上方洒落，在地面和人物身上形成柔和自然的光影。整体氛围宁静、治愈、充满东方文化韵味，画面构图采用中景竖版，人物居中偏右，突出人与环境的和谐感。
     
     风格：写实摄影风，高清细节，8K画质，自然光效，色彩清新明亮，强调人物柔美气质与古朴环境的融合。
-    
-    —
-    
-    ✅ 此 Prompt 专为 Qwen-VL 设计，包含：
-    - 人物特征（外貌、服装、姿态）
-    - 环境元素（古树、祈福牌、中式庭院）
-    - 光影与氛围描述
-    - 构图与风格要求
+
 ```    
 
 
-```    
+```markdown    
     一位年轻亚洲女性，约22-25岁，正专注地低头看着笔记本电脑屏幕。她留着柔顺的深棕色中长发，刘海自然垂在额前，戴一副细金属边框的椭圆形眼镜，镜片透明反光。她穿着一件鲜艳的红色吊带内搭，外罩一件宽松的白色针织开衫，衣袖卷至手肘处。脖子上佩戴一颗小巧的珍珠项链，左耳戴着单颗珍珠耳坠。她的表情安静而专注，嘴唇微抿，眼神聚焦于屏幕。背景是明亮的现代办公室环境，浅焦虚化处理，隐约可见后方有两位模糊的女性同事正在工作，窗外透入柔和自然光，整体色调温暖、干净、有电影感。画面构图为近景特写，突出人物面部与上半身，氛围专业又温柔。
-    
-    —
-    
-    **提示词增强版（可选）：**
     
     > photorealistic, 8K ultra HD, soft cinematic lighting, shallow depth of field, bokeh background, professional office setting, natural window light, warm color grading, detailed skin texture, realistic hair strands, delicate jewelry, focused expression, Asian beauty, modern minimalist style
 ```    
 
 
-```    
+```markdown    
     一张由三个垂直拼接的场景组成的时尚生活摄影三联画，整体风格清新、文艺、略带胶片感，色调柔和自然，突出女性优雅与日常氛围。
-    
-    ---
+
     
     **左图：窗边休闲少女**
     
@@ -2366,8 +2303,6 @@ A highly detailed, dynamic digital painting of a fierce female warrior in an int
     - 光线：自然光从左侧窗洒入，营造温暖柔和氛围。
     - 风格：街头时尚 + 日常生活感，构图偏中景，人物占画面70%。
     
-    ---
-    
     **中图：餐厅用餐美人**
     
     - 同一位女性（可微调发型），坐在餐厅餐桌前，直视镜头，表情自然略带慵懒。
@@ -2376,8 +2311,7 @@ A highly detailed, dynamic digital painting of a fierce female warrior in an int
     - 环境：法式或意式餐厅，背景可见其他顾客、百叶窗、墙上挂画、木质门框。
     - 光线：室内暖黄灯光 + 自然光混合，营造温馨高级感。
     - 构图：近景特写，聚焦人物面部与桌面美食，背景虚化。
-    
-    ---
+
     
     **右图：街角咖啡馆外**
     
@@ -2386,8 +2320,7 @@ A highly detailed, dynamic digital painting of a fierce female warrior in an int
     - 环境：复古咖啡馆外墙，红棕釉面瓷砖+金色花纹装饰，旁边有玻璃窗反射街景，远处可见行人与街灯。
     - 光线：午后阳光斜照，形成柔和阴影，增强立体感。
     - 风格：都市浪漫风，强调建筑纹理与人物柔美对比。
-    
-    ---
+
     
     **统一要求：**
     
@@ -2399,20 +2332,16 @@ A highly detailed, dynamic digital painting of a fierce female warrior in an int
 ```    
  
  
-```    
+```markdown    
     一位优雅的亚洲女性，身着飘逸的橙棕色薄纱长裙，侧卧在浅灰色纹理背景前（类似大理石或水彩晕染效果），姿态慵懒而性感。她黑发微卷，眼神迷离地望向镜头，右手轻抚脸颊，左手自然搭在腰侧，双腿交叠弯曲，脚踝纤细。整体光线柔和偏冷调，突出肌肤质感与纱裙的透明层次。画面右上角有白色艺术字体“影分术 MOVIE HUNTER”，左下角叠加半透明深灰条幅，内有白色简体中文：“直播间里，伊能静贩卖自己”。构图采用横幅电影感比例，氛围兼具时尚大片与私密直播的矛盾感。
 ```    
 
-```    
+```markdown    
     一位年轻、气质优雅的亚洲女性，坐在一张现代风格的金属高脚吧台椅上。她身穿一件修身黑色高领长袖针织衫，搭配一条黑白拼接的A字短裙——裙身外层为光泽感黑色皮质，内衬为纯白色，腰部系着一条宽版黑色皮带，配有银色方形金属扣。她双腿交叠，穿着黑色透明丝袜和尖头黑色漆皮高跟鞋，姿态端庄而自信。
     
     她的长发呈深棕色，自然垂落肩头，妆容精致淡雅，佩戴小巧的珍珠耳钉与一条细链金色吊坠项链。眼神温柔直视镜头，面带浅笑，充满亲和力与知性美。
     
     背景是极简现代风室内空间：墙面与地面均为洁白大理石纹理，左侧有一株高大的绿色龙血树盆栽，增添自然气息；右侧是纯白墙壁，整体光线明亮柔和，营造出干净、高级、时尚的氛围。构图居中，人物占据画面主体，细节清晰，质感细腻，具有商业摄影级别的写实风格。
-    
-    —
-    
-    **推荐参数（如支持）：**
     
     - 风格：写实摄影 / 商业人像
     - 光线：柔和自然光 + 室内补光
@@ -2421,7 +2350,7 @@ A highly detailed, dynamic digital painting of a fierce female warrior in an int
 ```    
 
 
-```    
+```markdown    
     【画面主体】一位青春可爱的亚洲女学生，身着精致的日式学院风制服，站在室内木质地板上，背景是纯白色墙壁。
     
     【服装细节】
@@ -2446,7 +2375,7 @@ A highly detailed, dynamic digital painting of a fierce female warrior in an int
 ```    
 
 
-```    
+```markdown    
     【画面主体】一位青春可爱的亚洲女学生，身着精致的日式学院风制服，站在室内木质地板上，背景是纯白色墙壁。
     
     【服装细节】
@@ -2470,7 +2399,7 @@ A highly detailed, dynamic digital painting of a fierce female warrior in an int
     - 人物比例协调，腿型修长，整体构图居中，全身照，略微仰拍增强视觉冲击力。
 ```    
 
-```
+```markdown
 一幅充满都市时尚感的女性肖像图。
     
     **主体人物：**
@@ -2495,7 +2424,7 @@ A highly detailed, dynamic digital painting of a fierce female warrior in an int
 ```    
  
  
-```    
+```markdown    
     一位年轻、清秀的东亚女性，站在纯白色背景前，全身正面中景构图。她拥有乌黑柔顺的长直发，带有自然空气感的齐刘海，发丝微微飘动，增添动感。她的面部轮廓精致，眼神温柔直视镜头，嘴唇微启，表情略带羞涩与自信。
     
     她身穿一件橄榄绿色（军绿/卡其绿）吊带连衣裙：上身为修身紧身设计，细肩带，凸显锁骨线条；下摆为蓬松短裙，腰部有褶皱收腰设计，并装饰有一圈闪亮的银色水钻或珠饰腰链，呈弧形环绕，增加华丽感。
@@ -2503,10 +2432,7 @@ A highly detailed, dynamic digital painting of a fierce female warrior in an int
     她双手轻抬至胸前，指尖轻轻捏住吊带边缘，姿态优雅而略带俏皮。颈部佩戴一条精致的银色链条项链，镶嵌几何形状的金属装饰和一颗小吊坠，与腰链风格呼应。耳朵上戴着简约圆形耳环。
     
     整体光线明亮柔和，属于专业影棚布光，无明显阴影，突出人物立体感与服装细节。画面干净、时尚、现代，适合用于服装展示或时尚人像摄影。
-    
-    —
-    
-    **可选增强指令（如需更高精度）：**
+
     
     - “高分辨率，8K画质，超写实风格”
     - “皮肤质感细腻光滑，有自然光泽”
@@ -2515,26 +2441,22 @@ A highly detailed, dynamic digital painting of a fierce female warrior in an int
 ```    
 
 
-```    
+```markdown    
     一位年轻女性在室内对着镜子自拍。她留着齐刘海的黑色长直发，面部被手机遮挡部分。她身穿一件紧身黑色长袖上衣，凸显身材曲线；下装是黑色高腰短裤，腰部有金属纽扣，两侧大腿处有镂空设计并带有蕾丝花边装饰；搭配黑色过膝长袜，袜口同样饰有蕾丝边。她右手举着一部深绿色手机（类似 iPhone 13 Pro 外观），正在拍摄镜中倒影。背景是一扇浅米色的嵌板式木门，门上有垂直线条和金属拉手。整体光线柔和均匀，画面氛围时尚、性感且略带私密感。
-    
-    —
-    
-    **Prompt（英文版，适合国际模型兼容）：**
-    
-    A young woman is taking a mirror selfie indoors. She has long, straight black hair with bangs; her face is partially obscured by the phone she’s holding. She wears a tight-fitting black long-sleeve top that accentuates her curves, paired with high-waisted black shorts featuring a metal button at the waist and cut-out details on both thighs edged with lace trim. She also wears black thigh-high stockings with lace tops. Her right hand holds a dark green smartphone (resembling an iPhone 13 Pro) up to capture her reflection. The background is a light beige paneled wooden door with vertical grooves and a metallic handle. Lighting is soft and even, creating a stylish, slightly sensual, and intimate atmosphere.
 ```    
 
+    
+```markdown
+A young woman is taking a mirror selfie indoors. She has long, straight black hair with bangs; her face is partially obscured by the phone she’s holding. She wears a tight-fitting black long-sleeve top that accentuates her curves, paired with high-waisted black shorts featuring a metal button at the waist and cut-out details on both thighs edged with lace trim. She also wears black thigh-high stockings with lace tops. Her right hand holds a dark green smartphone (resembling an iPhone 13 Pro) up to capture her reflection. The background is a light beige paneled wooden door with vertical grooves and a metallic handle. Lighting is soft and even, creating a stylish, slightly sensual, and intimate atmosphere.
 ```    
+
+```markdown    
     一位年轻、精致的亚洲女性，拥有乌黑柔顺的齐肩短发，发丝自然垂落，略带蓬松感。她面容清秀，皮肤白皙光滑，妆容精致：深邃的眼线勾勒出明亮大眼，睫毛纤长卷翘，唇色为柔和的珊瑚粉，眼神直视镜头，表情自信而略带一丝冷艳。
     
     她身穿一件纯白色挂脖式露脐上衣，领口设计为高领环形，胸前有金属圆环扣饰，凸显胸部曲线与纤细腰身。下身搭配蓝色高腰牛仔裤，配一条宽版白色皮质腰带，银色金属扣清晰可见。她的左手叉腰，姿态自然放松，右手自然下垂，整体身材比例匀称，腹部平坦紧致。
     
     背景为抽象艺术风格，以深蓝和暗红色为主色调，带有模糊的笔触或布料质感，营造出时尚摄影棚或画廊氛围。光线柔和且富有层次，主要从正面偏上方打光，突出人物面部轮廓与身体线条，阴影过渡自然，整体画面呈现高分辨率、电影级质感，色彩饱和度适中，具有现代时尚杂志封面风格。
-    
-    —
-    
-    **建议附加参数（如支持）：**
+
     
     - 风格：写实摄影风 / 时尚人像 / 高清商业图
     - 分辨率：1080p 或更高
@@ -2543,7 +2465,7 @@ A highly detailed, dynamic digital painting of a fierce female warrior in an int
 ```    
 
 
-```    
+```markdown    
     一位年轻亚洲女性在户外海边场景中自拍。她留着齐肩的浅棕色或红棕色直发，自然垂落于肩头。她佩戴一副时尚的金色细边飞行员款太阳镜，镜片深黑色，反射出模糊的环境倒影。她的面部表情轻松愉悦，嘴角微微上扬，露出洁白整齐的牙齿，眼神透过墨镜望向镜头。
     
     她身穿一件浅蓝色露肩连衣裙，领口为高领设计，但肩部完全裸露，胸前有褶皱荷叶边装饰，面料轻盈柔软，呈现自然的褶皱感。她的左臂抬起，手肘弯曲，手臂部分进入画面左侧边缘，姿态自然放松。
@@ -2551,10 +2473,7 @@ A highly detailed, dynamic digital painting of a fierce female warrior in an int
     背景是开阔的海面，海水呈灰蓝色，有轻微波纹；天空多云，光线柔和均匀，整体氛围清新、惬意、度假风。构图为近景特写，聚焦于人物上半身和面部，背景略有虚化以突出主体。
     
     色调偏冷调、干净明亮，具有生活化、真实感的摄影风格，类似手机自拍效果，带轻微噪点与自然光影过渡。
-    
-    —
-    
-    **建议附加参数（如支持）：**
+
     
     - 风格：Realistic / Photorealistic
     - 光线：Soft natural daylight
@@ -2564,14 +2483,11 @@ A highly detailed, dynamic digital painting of a fierce female warrior in an int
 ```    
 
 
-```    
+```markdown    
     一位优雅迷人的亚洲女性，约30-35岁，留着齐肩黑色直发，带有自然空气刘海，妆容精致：红唇、清晰眼线、柔和高光。她身穿一件深V领黑色丝绒吊带长裙，材质柔滑有光泽，凸显身材曲线。她佩戴一套高级珠宝：一条镶嵌钻石或水晶的Y型流苏项链，一对大尺寸几何造型耳环（银色镶钻），右手无名指戴戒指，左手腕戴简约手链。
     
     她侧身斜靠在米色布艺沙发上，右臂弯曲枕于头后，左手轻放于大腿上，姿态放松而自信，眼神温柔注视镜头，略带微笑。背景是浅木色墙面，墙上挂着三幅现代抽象艺术画作，内容为紫色与灰色调的建筑结构线条（类似桥梁或摩天楼），构图对称。整体光线柔和温暖，来自正面偏左，营造出高端时尚摄影棚氛围。画面色调偏暖，强调质感与奢华感，构图为中景人像，突出人物神态与服装细节。
-    
-    —
-    
-    **补充说明（用于增强Qwen-VL理解）：**
+
     
     - 风格：高端时尚写真 / 精致人像摄影
     - 情绪：优雅、自信、温柔、性感而不俗
@@ -2580,7 +2496,7 @@ A highly detailed, dynamic digital painting of a fierce female warrior in an int
 ```    
 
 
-```    
+```markdown    
     一位年轻亚洲女性在圆形化妆镜前用手机自拍。她留着深棕色长发，部分头发扎成高马尾，额前有轻盈的空气刘海，几缕发丝自然垂落在脸颊两侧。她正脸微侧，眼神直视镜头，表情温柔带一丝俏皮，涂着粉红色哑光唇膏。
     
     她身穿一件橄榄绿色罗纹针织长袖上衣，领口为大U型设计，胸前有两个垂直排列的银色金属圆环装饰，形成视觉焦点。脖子上佩戴同色系的细款针织颈圈（Choker），与上衣风格呼应。
@@ -2590,11 +2506,9 @@ A highly detailed, dynamic digital painting of a fierce female warrior in an int
     背景是纯米色墙面，镜子边缘有明亮的白色LED环形灯带，均匀照亮人物面部与上半身，营造柔和无阴影的影棚级打光效果。画面右上角有“11/16”日期标签和“Orange”字样水印（可选添加）。
     
     整体氛围时尚、精致、生活化，强调服装细节、妆容质感与光影层次，适合用于社交媒体穿搭分享或人像摄影参考。
-    
-    —
-    
-    **Prompt（英文增强版，供多语言模型兼容）：**
-    
+```
+
+```markdown    
     A young Asian woman taking a mirror selfie in front of a round vanity mirror with bright LED ring light. She has long dark brown hair styled in a messy high ponytail with soft bangs framing her face. Her expression is gentle and slightly playful, looking directly at the camera with pink matte lipstick.
     
     She wears an olive green ribbed knit long-sleeve top with a deep U-neckline and two vertically aligned silver metal O-rings as chest embellishments. A matching thin knitted choker adorns her neck.
@@ -2607,7 +2521,7 @@ A highly detailed, dynamic digital painting of a fierce female warrior in an int
 ```    
  
  
-```    
+```markdown    
     一位年轻东亚女性在机场航站楼内自拍。她留着齐肩黑色直发，自然垂落，面部清秀，眼神直视镜头，表情平静略带自信。她身穿一件纯白色紧身短款T恤，领口为宽U型设计，露出锁骨和部分腹部；下身搭配深色格纹百褶短裙，裙子边缘有白色细线勾勒。她右臂抬起弯曲，手轻抚后脑勺，身体微微前倾，营造出随性又时尚的姿态。
     
     背景是典型的机场环境：左侧可见一排整齐排列的银色金属行李推车，远处有模糊的旅客和柜台，天花板上有嵌入式照明灯和指示牌，整体光线明亮均匀，色调偏冷白。地面为光滑灰色瓷砖，反射出柔和光影。画面构图为中近景特写，聚焦人物上半身与姿态，具有生活感与旅行氛围。
@@ -2616,20 +2530,16 @@ A highly detailed, dynamic digital painting of a fierce female warrior in an int
 ```    
 
 
-```    
+```markdown    
     一位年轻、充满活力的女性站在城市街道的人行道上，面带灿烂微笑直视镜头。她拥有自然蓬松的深棕色长发，略带波浪，随风轻扬。她身穿一件简约修身的白色长袖短款上衣（crop top），露出平坦的小腹；下身搭配一条高腰灰色牛仔百褶迷你裙，裙摆边缘有轻微毛边设计，风格休闲又时尚。脖子上佩戴一条纤细银链，吊坠为小巧的心形。她的姿态自然放松，一只手微微抬起，仿佛正迈步或与人互动。
     
     背景是模糊的城市街景：远处可见绿树、行人轮廓和车辆尾灯形成的柔和光斑（bokeh效果），营造出浅景深摄影氛围。光线为柔和的自然日光，整体色调清新明亮，突出人物主体。画面构图为中景人像，聚焦于人物从头部到大腿中部，强调其青春、自信与都市时尚感。
-    
-    —
-    
-    **提示词关键词（可选追加）：**
-    
+
     photorealistic, natural lighting, shallow depth of field, bokeh background, street style, candid moment, smiling woman, urban setting, fashion portrait, high detail, 8K
 ```    
 
 
-```    
+```markdown    
     一位年轻女性蹲坐在现代都市地铁站或地下通道的地面上，背景是干净整齐的白色瓷砖墙面和灰色防滑地砖。她面向镜头，眼神略带慵懒与酷感，直视观者。
     
     她留着棕色长发，刘海齐眉，戴着一顶黑色蕾丝边贝雷帽，帽子上点缀着小蝴蝶结或金属扣饰。身穿一件简约白色短袖T恤，搭配黑色吊带背心外穿，露出肩部和锁骨；下身穿着黑色条纹过膝长袜和厚底黑色马丁靴，整体风格融合了甜酷与朋克元素。
@@ -2642,7 +2552,7 @@ A highly detailed, dynamic digital painting of a fierce female warrior in an int
 ```    
 
 
-```    
+```markdown    
     一位年轻优雅的亚洲女性，正脸直视镜头，眼神清澈而略带沉思，表情自然温柔。她拥有精致立体的五官，皮肤白皙细腻，妆容清淡自然，唇色为柔和的珊瑚粉。她的深棕色头发向后梳起，部分发丝轻柔垂落于脸颊两侧，显得随性又不失精致。
     
     她身穿一件纯白色露肩礼服，上衣为宽大的泡泡袖设计，布料柔软有垂坠感，领口呈心形，露出优美的锁骨和肩颈线条；腰部有镂空设计，展现纤细腰身，下装为简约高腰裙摆，整体风格浪漫、高级且现代。
@@ -2650,34 +2560,23 @@ A highly detailed, dynamic digital painting of a fierce female warrior in an int
     背景是明亮的室内空间，透过大窗户可见模糊的城市高楼轮廓，光线从窗外洒入，营造出柔和的逆光效果，使人物边缘带有轻微光晕。整体色调以白色、浅灰和淡蓝为主，氛围清新、宁静、富有时尚感。
     
     画面构图为中近景特写，焦点集中在人物面部与上半身，背景虚化处理，突出主体。摄影风格为专业人像写真，具有电影感光影与高级质感。
-    
-    —
-    
-    **附加建议（用于提升生成质量）：**
-    
-    - 可添加参数如：“8K超清细节”、“柔焦背景”、“自然光打光”、“时尚杂志封面风格”
-    - 若支持负向提示词，可加入：“避免过度磨皮、避免浓妆、避免杂乱背景、避免卡通或插画风格”
+    8K超清细节、柔焦背景、自然光打光、时尚杂志封面风格
+    - 负向提示词：避免过度磨皮、避免浓妆、避免杂乱背景、避免卡通或插画风格
 ```    
 
 
     
-```    一位年轻、身材匀称的亚洲女性在现代化健身房内进行器械训练。她留着齐肩深棕色直发，皮肤白皙，五官清秀，眼神专注地望向右上方，嘴唇微张，表情自然放松中带有一丝运动时的专注。
+```markdown
+    一位年轻、身材匀称的亚洲女性在现代化健身房内进行器械训练。她留着齐肩深棕色直发，皮肤白皙，五官清秀，眼神专注地望向右上方，嘴唇微张，表情自然放松中带有一丝运动时的专注。
     
     她身穿一件浅粉色细肩带运动内衣，边缘有白色包边，材质轻薄贴身；下身搭配深灰色高腰紧身瑜伽裤，凸显腰线和腿部线条。她坐在一台多功能力量训练器械的黑色软垫座椅上，身体微微前倾，右手握住器械的垂直金属拉杆，手臂伸展，正在做拉力训练动作。
     
     背景是典型的健身房环境：银灰色金属器械结构清晰可见，左侧有配重片和调节旋钮，后方玻璃窗透入柔和的自然光，窗外隐约可见模糊的绿植与建筑轮廓，营造出明亮、干净、专业的氛围。整体画面采用中近景构图，焦点集中在人物上半身，景深较浅，背景略微虚化，突出主体。光线柔和均匀，色调偏冷调但肤色温暖，呈现高清写实风格，细节丰富，质感真实。
-    
-    —
-    
-    **附加建议（用于提升生成效果）：**
-    
-    - **模型提示词**：可追加 “highly detailed, realistic photography, professional gym setting, natural lighting, 8K resolution” 等关键词。
-    - **避免内容**：请勿添加任何夸张、低俗或不符合健身主题的元素。
-    - **风格控制**：若需调整风格，可加入 “cinematic lighting”, “soft bokeh background”, 或 “fitness influencer style”。
+   highly detailed, realistic photography, professional gym setting, natural lighting, 8K resolution.
 ```    
 
 
-```    
+```markdown    
     一位年轻女性站在一面装饰华丽的金色雕花边框大镜子前，正在用一部银色 iPhone 自拍。她留着蓬松的棕色长卷发，自然垂落肩头，左手轻轻撩起白色百褶短裙的裙摆，右手举着手机遮住半张脸，只露出部分侧颜和眼睛。
     
     她身穿一件黑色短袖拉链夹克，修身显瘦，拉链从领口一直拉到腰线，胸前有立体口袋设计；下身搭配一条高腰纯白色百褶迷你裙，裙摆呈扇形散开，显得青春活泼。她穿着黑色透明薄款丝袜，脚踩一双黑色漆皮玛丽珍鞋，鞋面带搭扣，厚底设计，增添复古时尚感。
@@ -2685,11 +2584,10 @@ A highly detailed, dynamic digital painting of a fierce female warrior in an int
     背景是现代简约风格的室内墙面，灰色哑光墙板拼接，嵌有细密的金色竖向金属线条装饰，地面是浅米色抛光大理石瓷砖，边缘有黑色踢脚线。整体光线明亮柔和，人物轮廓清晰，氛围优雅又带点俏皮。
     
     构图为全身镜前自拍视角，画面左右两侧被金色雕花镜框包围，形成视觉框架。请保持真实摄影质感，细节丰富，色彩对比鲜明（黑与白、金与灰），突出服装材质与光影层次。
-    
-    —
-    
-    **Prompt（英文精炼版，如需兼容国际模型或双语输入）：**
-    
+```
+
+
+```markdown    
     A young woman takes a mirror selfie in front of an ornate golden-framed full-length mirror. She has long, wavy brown hair and holds a silver iPhone with her right hand, partially covering her face. Her left hand gently lifts the hem of her white pleated mini skirt.
     
     She wears a fitted black short-sleeve zip-up jacket with chest pockets and a white high-waisted pleated mini skirt. She pairs it with sheer black stockings and glossy black Mary Jane shoes with buckles and thick heels.
@@ -2698,7 +2596,7 @@ A highly detailed, dynamic digital painting of a fierce female warrior in an int
 ```    
 
 
-```    
+```markdown    
     一位年轻的东亚女性正蹲在一面全身镜前，用手机自拍。她留着深色长发，自然垂肩，表情略带慵懒与沉思，眼神直视镜头。她身穿一件纯白色长袖衬衫，领口微开，袖子卷至手肘处；下身搭配一条深灰蓝格纹百褶短裙，裙摆蓬松有层次感；脚穿黑色厚底马丁靴，腿上穿着黑色过膝长袜或打底裤，膝盖部分微微露出。
     
     她右手举着一部浅黄色手机壳的 iPhone（可见三摄镜头），左手自然搭在膝盖上，手腕戴有一只简约银色手镯和一只细金手环。她身体略微侧向镜头，呈半蹲姿势，姿态放松而时尚。
@@ -2707,7 +2605,7 @@ A highly detailed, dynamic digital painting of a fierce female warrior in an int
 ```    
 
 
-```    
+```markdown    
     A young East Asian woman is crouching in front of a full-length mirror, taking a selfie with her phone. She has long, dark hair falling naturally over her shoulders, and her expression is slightly lazy and contemplative, gazing directly into the camera.
     
     She wears a crisp white long-sleeve shirt with rolled-up sleeves to the elbows, paired with a pleated mini skirt in dark grey-blue plaid pattern. Her legs are covered in black thigh-high socks or tights, with knees slightly exposed. She’s wearing chunky black platform combat boots.
@@ -2718,7 +2616,7 @@ A highly detailed, dynamic digital painting of a fierce female warrior in an int
 ```    
 
 
-```    
+```markdown    
     一位年轻的东亚女性正蹲在一面全身镜前，用手机自拍。她留着深色长发，自然垂肩，表情略带慵懒与沉思，眼神直视镜头。她身穿一件纯白色长袖衬衫，领口微开，袖子卷至手肘处；下身搭配一条深灰蓝格纹百褶短裙，裙摆蓬松有层次感；脚穿黑色厚底马丁靴，腿上穿着黑色过膝长袜或打底裤，膝盖部分微微露出。
     
     她右手举着一部浅黄色手机壳的 iPhone（可见三摄镜头），左手自然搭在膝盖上，手腕戴有一只简约银色手镯和一只细金手环。她身体略微侧向镜头，呈半蹲姿势，姿态放松而时尚。
@@ -2726,7 +2624,7 @@ A highly detailed, dynamic digital painting of a fierce female warrior in an int
     背景是现代简约风格的室内空间：墙面为纯白色，地面是浅灰色瓷砖，右侧门框边缘可见一扇白门，配有黑色长条形门把手，钥匙插在锁孔中。镜子左侧反射出走廊尽头的黑色门框和部分墙壁。整体光线明亮均匀，氛围干净、清新、带点日系少女感，构图采用镜面反射视角，具有真实生活感和自拍氛围。
 ```    
 
-```    
+```markdown    
     A young East Asian woman is crouching in front of a full-length mirror, taking a selfie with her phone. She has long, dark hair falling naturally over her shoulders, and her expression is slightly lazy and contemplative, gazing directly into the camera.
     
     She wears a crisp white long-sleeve shirt with rolled-up sleeves to the elbows, paired with a pleated mini skirt in dark grey-blue plaid pattern. Her legs are covered in black thigh-high socks or tights, with knees slightly exposed. She’s wearing chunky black platform combat boots.
@@ -2736,7 +2634,7 @@ A highly detailed, dynamic digital painting of a fierce female warrior in an int
     The background is minimalist modern interior: white walls, light gray tiled floor. To the right, a white door with a sleek black lever handle is visible, with a key inserted in the lock. The mirror reflects part of a hallway with a black-framed doorway. Lighting is bright and even, creating a clean, fresh, subtly Japanese-style aesthetic. Composition uses mirror reflection perspective for authentic selfie atmosphere.
 ```    
 
-```
+```markdown
     一位年轻、气质冷艳的亚洲女性，拥有浓密柔顺的黑色长卷发，自然垂落肩头。她正对镜头，眼神锐利而自信，妆容精致——强调深邃眼线、自然眉形与裸色唇妆，皮肤白皙无瑕。
     
     她身穿一件设计感极强的黑色西装连衣裙：V型深领口由两片交叉的缎面布料构成，露出锁骨与部分胸部；长袖修身，袖口略微收紧；裙摆为不对称不规则剪裁，前短后长，下摆开衩至大腿中部，展现修长双腿。
@@ -2746,10 +2644,6 @@ A highly detailed, dynamic digital painting of a fierce female warrior in an int
     背景为纯浅灰色摄影棚背景，光线柔和均匀，采用专业影棚布光，突出人物轮廓与服装质感，整体氛围高级、现代、时尚、略带神秘感。画面构图为中景全身照，人物居中，比例协调，细节清晰。
     
     风格：高分辨率商业时尚摄影，写实主义，强调服装纹理与光影表现。
-    
-    —
-    
-    **可选增强词（用于提升生成质量）：**
     
     - “超高清 8K”、“电影级打光”、“皮肤毛孔级细腻”、“丝绸光泽感”、“哑光与缎面材质对比”
     - “情绪：自信、冷静、强大”
