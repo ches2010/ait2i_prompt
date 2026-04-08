@@ -1,0 +1,20 @@
+## 301
+extreme close-up, cold porcelain skin, long chestnut messy high ponytail, stray hairs on forehead, sharp lazy eyes, cool toughness, faint pure desire, faded khaki work jacket collar only, blurred industrial gray bokeh, cinematic hard side light, sharp cheekbone shadows, natural nose bridge oil sheen, slight motion blur, quick head tilt, soft edge defocus, heavy CCD grain, candid mobile snap, lash shadows on lower lids, visible lip lines, photorealistic, best quality, 8k, ultra-detailed, realistic, photo-realistic, highres, masterpiece, HDR, UHD, studio lighting, ultra-fine painting, sharp focus, physically-based rendering, extreme detail description, professional, vivid colors, bokeh
+
+## 302
+Close-up shot, face fills entire frame. Ethereal young woman with milky cold white skin, long straight black hair secured by a single white camellia hairpin. Eyes slightly drooping, expression carries quiet melancholy. Wearing dark indigo kimono; only collar visible, edged with thin white piping, subtle cherry blossom embroidery along neckline. Background softly blurred into muted tatami mat tones — warm beige and straw-yellow gradients. Cinematic side backlight traces contours of lashes and individual hair strands. No digital skin smoothing: pores, faint fine lines around eyes and forehead clearly rendered. Slight motion blur on loose strands of hair drifting in gentle breeze. Frame edges subtly softened, shallow depth of field. Visible analog CCD noise grain across image. Composition mimics candid mobile phone snapshot taken in traditional Japanese courtyard — ambient daylight filtered through paper screens, no flash. Hyper-realistic texture detail on skin, fabric weave, ceramic hairpin surface, and embroidered thread. No text in image.
+
+## 303
+Face occupies 98% of frame, extreme close-up of a young woman with smooth, pale white skin exhibiting natural oil sheen on cheeks, long straight jet-black hair cascading over left shoulder, lips painted deep red curved into subtle smirk revealing slight asymmetry in facial muscles, wearing deep burgundy velvet evening gown with only scalloped black lace neckline visible at bottom edge of frame, background dissolved into soft circular bokeh of warm golden chandelier lights, ambient illumination casting cinematic golden-hour glow across forehead, nose bridge, and upper cheekbones, faint motion blur from slow eyelid closure captured mid-blink, shallow depth of field inducing peripheral haze around jawline and hair edges, fine 35mm film grain texture overlaying entire image, candid moment captured as if by handheld camera at dimly lit gala event, no digital retouching, all skin pores, fine vellus hairs, and micro-wrinkles at eye corners rendered with anatomical precision.
+
+## 304
+一位皮肤白皙、面容柔和的年轻女性，身穿浅灰色宽松针织衫，内搭卡其色高领打底衫，黑色长发自然垂落肩头，几缕碎发轻柔散落在额前与颊侧。她以右手轻托右脸颊，肘部支于木质咖啡桌面上，身体微倾，目光略带慵懒与松弛，直视前方偏下角度。面前桌面上放置一只白色陶瓷杯，内盛拿铁咖啡，插有一根白色纸质吸管，杯旁无其他餐具或物品。背景为大型落地玻璃窗，窗外可见暖色调砖墙立面建筑、一辆深灰色电动自行车斜向停靠于人行道边、窗框右侧悬挂一个由松枝与红色浆果编织而成的圆形圣诞花环。室内光线为午后自然漫射光，自左侧窗户斜入，在人物面部形成柔和高光，阴影过渡自然，整体色调以米白、浅灰、卡其与砖红为主，饱和度偏低，对比度温和。画面构图为中近景半身像，人物居中偏右，背景虚化程度适中以突出主体，桌面占画面下部三分之一，窗外街景保持可辨识细节但不喧宾夺主。无任何文字元素出现在画面中。
+
+## 305
+全脸占屏特写，冷白肤色少女，黑长直发垂落至胸前，佩戴透明方框眼镜，镜片表面附着细密水珠，右手食指与拇指轻捏湿漉漉的黑色伞柄，眼神清澈、眼尾微上挑，白色校服衬衫领口第一颗纽扣解开、布料轻微褶皱，背景为虚化的教学楼走廊，冷白色荧光灯管照明，雨后环境漫射冷调自然光从画面右前方斜向打亮面部左侧轮廓，皮肤表面呈现湿润反光质感，无数字滤镜处理，头部轻微向左转动造成0.3秒级动态模糊，镜片因转头动作在右上角产生一道短促高光反射，整体画面带有轻度景深失焦效果，模拟手机抓拍产生的中高ISO噪点颗粒感，金属镜架压在右脸颊处形成局部泛红压痕，构图中心聚焦于面部三角区，发丝边缘与镜框构成视觉引导线。
+
+## 306
+99%画面特写，一位冷白肤色少女，黑直公主切长发蓬松凌乱垂落肩颈，白色细吊带滑落右肩，左肩带仍贴合。双眼微眯，目光朦胧含困意，眼尾自然下垂略带撩人神态，面部肌肉松弛，嘴角无刻意上扬。背景为虚化夏夜星空，冷蓝色星光弥散，无具体星座或星体结构。清冷月光自斜上方45度漫射，精准打亮锁骨轮廓线，锁骨表面覆盖极薄一层透明汗液反光，皮肤呈现冷调哑光质感，无高光修饰痕迹。少女轻微仰头，喉结在动态模糊中轻移0.3厘米幅度，颈部线条拉伸。画面边缘柔焦处理，过渡自然。整体影像模拟CCD传感器高感光颗粒噪点，ISO 1600级灰阶噪点均匀分布。拍摄视角为低角度仰拍，天台金属栏杆虚化于画面底部15%区域，栏杆表面有轻微锈迹与露水凝结。双唇自然微张约5毫米，唇面湿润无唇彩，下唇中央有细微唾液反光点。无任何文字元素。
+
+## 307
+全脸占屏特写，冷白肤色少女，黑直长发呈公主切造型，发丝凌乱飞扬，身穿藏青色校服，领口随意翻折仅露出锁骨区域，面部表情桀骜不驯，唇角微扬带一丝媚意，兼具少年感与性感气质。顶光以斜角投射，在眉骨、鼻梁与下颌线形成锐利硬朗阴影，强化面部立体结构。背景为模糊的车棚钢架结构，投下交错几何阴影。画面呈现轻微动态模糊效果，模拟少女扶车瞬间转头挑眉的动作轨迹。镜头轻度失焦，边缘柔和化处理，整体画质模拟手机高ISO拍摄产生的可见噪点颗粒感，无任何数字滤镜修饰。右眉骨处有一道细微汗迹反光，增强真实生理细节。构图采用角落偷拍视角，强化临场感与私密张力。
